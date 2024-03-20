@@ -6,7 +6,8 @@ November 6 - 8, Copenhagen, Denmark
 
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
   * Maja Hanne Kirkeby, Roskilde University
-  * Morten Rhiger, Roskilde University 
+  * Morten Rhiger, Roskilde University
+  * Jens Classen, Roskilde University
   * Fritz Henglein, University of Copenhagen and Deon Digital
 
 ## Invited speakers
