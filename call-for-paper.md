@@ -34,7 +34,7 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
 ## Submission guidelines
 Authors wishing to give a talk at the workshop are requested to submit abstracts of 2-3 pages (pdf, printable on A4 paper, typeset with LaTeX with easychair.cls) through EasyChair:
 
-https://easychair.org/conferences/?conf=nwpt2024
+[https://easychair.org/conferences/?conf=nwpt2024](https://easychair.org/conferences/?conf=nwpt2024)
 
 Work in progress as well as abstracts of manuscripts submitted for formal publication elsewhere are permitted. The abstracts of the accepted contributions will be available electronically before the workshop. By submitting to EasyChair you agree that your abstract will be publicly available. Moreover, you as an author are responsible for the content.
 
