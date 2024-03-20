@@ -22,7 +22,15 @@ Conference dates: 6-8 November 2024
 
 ## Invited speakers
 
-TBD
+* João Saraiva<br>
+  Professor Auxiliar<br>
+  Department of Informatics, University of Minho and HASLab / INESC TEC<br>
+  _On recent work on the area of programming, languages and their energy consumption_
+* Sam Staton<br>
+  Professor of Computer Science<br>
+  Department of Computer Science, University of Oxford<br>
+  _On probabilistic programming and/or programming languages for quantum computation_
+* TBD
 
 ## Program Committee
 
