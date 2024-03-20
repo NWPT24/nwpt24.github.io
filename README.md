@@ -1,6 +1,6 @@
-# NWPT 2024
+# 35th Nordic Workshop on Programming Theory
 
-November 6 - 8, Copenhagen, Denmark
+November 6 - 8 2024, Copenhagen, Denmark
 
 ## Important dates (Tentative)
 
