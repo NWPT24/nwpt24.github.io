@@ -1,6 +1,8 @@
 
 November 6 - 8 2024, Copenhagen, Denmark
 
+[Call for papers](call-for-paper.md)
+
 ## Important dates (Tentative)
 
 Submission of abstracts: September 24, 2024 23:59 AoE<br>
