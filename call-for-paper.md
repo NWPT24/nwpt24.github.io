@@ -1,9 +1,8 @@
 # Call for Papers
-35th Nordic Workshop on Programming Theory
 
-6-8 November 2024, University of Copenhagen, Copenhagen, Denmark
-
-nwpt24.github.io
+35th Nordic Workshop on Programming Theory<br>
+6-8 November 2024, University of Copenhagen, Copenhagen, Denmark<br>
+[nwpt24.github.io](nwpt24.github.io)
 
 ## Important dates (AoE)
 
