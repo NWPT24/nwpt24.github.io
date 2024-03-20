@@ -27,6 +27,7 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
   * program transformation and refinement,
   * real-time, hybrid/cyber-physical systems modeling and verification,
   * models of concurrency and distributed computing,
+  * probabilistic and quantum programming,
   * model checking,
   * model-based testing,
   * language-based security.
