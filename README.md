@@ -1,4 +1,3 @@
-# 35th Nordic Workshop on Programming Theory
 
 November 6 - 8 2024, Copenhagen, Denmark
 
