@@ -32,7 +32,7 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
   * language-based security.
 
 ## Submission guidelines
-Authors wishing to give a talk at the workshop are requested to submit abstracts of 2-3 pages (pdf, printable on A4 paper, typeset with LaTeX with easychair.cls) through EasyChair:
+Authors wishing to give a talk at the workshop are requested to submit abstracts of 2-3 pages (pdf, printable on A4 paper, [typeset with LaTeX with easychair.cls](https://easychair.org/publications/for_authors)) through EasyChair:
 
 [https://easychair.org/conferences/?conf=nwpt2024](https://easychair.org/conferences/?conf=nwpt2024)
 
