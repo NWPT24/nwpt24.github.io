@@ -38,6 +38,7 @@ Conference dates: 6-8 November 2024
 _More to come..._
 
   * Alceste Scalas, Technical University of Denmark, Denmark
+  * Antonis Achilleos, Reykjavik University
   * Danny Bøgsted Poulsen, Aalborg University
   * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
   * Johannes Borgström, Uppsala University, Sweden
@@ -46,6 +47,7 @@ _More to come..._
   * Marina Waldén, Abo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
+  * Martin Steffen, University of Oslo, Norway
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo, Denmark
   * Morten Rhiger, Roskilde University, Denmark
   * Niccolò Veltri, Tallinn University of Technology, Estonia
