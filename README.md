@@ -37,6 +37,7 @@ Conference dates: 6-8 November 2024
 
 _More to come..._
 
+  * Alceste Scalas, Technical University of Denmark, Denmark
   * Danny Bøgsted Poulsen, Aalborg University
   * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
   * Johannes Borgström, Uppsala University, Sweden
