@@ -41,6 +41,7 @@ _More to come..._
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
   * Maja Hanne Kirkeby, Roskilde University, Denmark
+  * Marina Waldén, Abo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo, Denmark
