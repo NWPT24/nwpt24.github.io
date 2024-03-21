@@ -50,5 +50,6 @@ _More to come..._
   * Patrick Bahr, IT-University of Copenhagen, Denmark
   * Philipp Ruemmer, University of Regensburg and Uppsala University, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
+  * Wojciech Mostowski, Halmstad University, Sweden
 
 
