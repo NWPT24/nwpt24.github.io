@@ -34,4 +34,18 @@ Conference dates: 6-8 November 2024
 
 ## Program Committee
 
-TBD
+_More to come..._
+
+  * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
+  * Johannes Borgström, Uppsala University, Sweden
+  * Keijo Heljanko, University of Helsinki, Finland
+  * Maja Hanne Kirkeby, Roskilde University, Denmark
+  * Marjan Sirjani, Malardalen University, Sweden
+  * Martin Elsman, University of Copenhagen, Denmark
+  * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo, Denmark
+  * Morten Rhiger, Roskilde University, Denmark
+  * Thomas T. Hildebrandt, University of Copenhagen, Denmark
+  * Philipp Ruemmer, University of Regensburg and Uppsala University, Sweden
+  *
+
+
