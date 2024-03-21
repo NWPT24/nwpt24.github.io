@@ -35,7 +35,15 @@ Conference dates: 6-8 November 2024
 
 ## Program Committee
 
+<!-- Chairs
+
+
+
+Members
+ -->
+
 _More to come..._
+
 
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
@@ -48,12 +56,11 @@ _More to come..._
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
   * Martin Steffen, University of Oslo, Norway
-  * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo, Denmark
+  * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
   * Morten Rhiger, Roskilde University, Denmark
   * Niccolò Veltri, Tallinn University of Technology, Estonia
   * Patrick Bahr, IT-University of Copenhagen, Denmark
-  * Philipp Ruemmer, University of Regensburg and Uppsala University, Sweden
+  * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
   * Wojciech Mostowski, Halmstad University, Sweden
-
 
