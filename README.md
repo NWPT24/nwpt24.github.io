@@ -35,29 +35,26 @@ Conference dates: 6-8 November 2024
 
 ## Program Committee
 
-<!-- Chairs
+### Chairs
+  * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
+  * Maja Hanne Kirkeby, Roskilde University, Denmark
+  * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
 
-
-
-Members
- -->
+### Members
 
 _More to come..._
-
 
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
   * Antti Valmari, University of Jyväskylä, Finland
   * Danny Bøgsted Poulsen, Aalborg University
-  * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
+  * Håkon Robbestad Gylterud, University of Bergen, Norway
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
-  * Maja Hanne Kirkeby, Roskilde University, Denmark
   * Marina Waldén, Abo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
   * Martin Steffen, University of Oslo, Norway
-  * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
   * Morten Rhiger, Roskilde University, Denmark
   * Niccolò Veltri, Tallinn University of Technology, Estonia
   * Patrick Bahr, IT-University of Copenhagen, Denmark
@@ -65,4 +62,3 @@ _More to come..._
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
   * Violet Ka I Pun, Western Norway University of Applied Sciences
   * Wojciech Mostowski, Halmstad University, Sweden
-
