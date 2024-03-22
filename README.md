@@ -47,6 +47,7 @@ _More to come..._
 
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
+  * Antti Valmari, University of Jyväskylä, Finland
   * Danny Bøgsted Poulsen, Aalborg University
   * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
   * Johannes Borgström, Uppsala University, Sweden
@@ -62,5 +63,6 @@ _More to come..._
   * Patrick Bahr, IT-University of Copenhagen, Denmark
   * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
+  * Violet Ka I Pun, Western Norway University of Applied Sciences
   * Wojciech Mostowski, Halmstad University, Sweden
 
