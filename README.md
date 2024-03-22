@@ -4,6 +4,30 @@ November 6 - 8 2024, Copenhagen, Denmark
 * [Call for papers](call-for-paper.md)
 * [Venue](venue.md)
 
+## About NWPT
+
+NWPT is a series of annual regional-scope workshops on programming
+theory, targeted especially at younger researchers. In 2024, the
+workshop will take place in Copenhagen, Denmark. We hope this will be
+a nice opportunity to present recent results and/or work-in-progress,
+and to meet colleagues from the Nordic and Baltic countries. We
+encourage PhD students and postdocs to contribute. Topics of interest
+include (but are not limited to):
+
+- semantics of programming languages
+- programming language design and programming methodology
+- programming logics
+- formal specification of programs
+- program verification
+- program construction
+- tools for program verification and construction
+- program transformation and refinement
+- real-time, hybrid/cyber-physical systems modeling and verification
+- models of concurrency and distributed computing
+- model checking
+- model-based testing
+- language-based security.
+
 ## Important dates (Tentative)
 
 Submission of abstracts: September 24, 2024 23:59 AoE<br>
