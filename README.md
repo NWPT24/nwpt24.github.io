@@ -47,10 +47,11 @@ _More to come..._
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
   * Antti Valmari, University of Jyväskylä, Finland
-  * Danny Bøgsted Poulsen, Aalborg University
+  * Danny Bøgsted Poulsen, Aalborg University, Denmark
   * Håkon Robbestad Gylterud, University of Bergen, Norway
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
+  * Magnus Madsen, Aarhus University, Denmark
   * Marina Waldén, Abo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
@@ -60,5 +61,5 @@ _More to come..._
   * Patrick Bahr, IT-University of Copenhagen, Denmark
   * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
-  * Violet Ka I Pun, Western Norway University of Applied Sciences
+  * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
   * Wojciech Mostowski, Halmstad University, Sweden
