@@ -80,6 +80,7 @@ _More to come..._
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
   * Martin Steffen, University of Oslo, Norway
+  * Mikhail Barash, University of Bergen
   * Morten Rhiger, Roskilde University, Denmark
   * Niccolò Veltri, Tallinn University of Technology, Estonia
   * Patrick Bahr, IT-University of Copenhagen, Denmark
