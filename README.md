@@ -49,11 +49,11 @@ Conference dates: 6-8 November 2024
 
 * João Saraiva<br>
   Professor Auxiliar<br>
-  Department of Informatics, University of Minho and HASLab / INESC TEC<br>
+  Department of Informatics, University of Minho and HASLab / INESC TEC, Portugal<br>
   _On recent work on the area of programming, languages and their energy consumption_
 * Sam Staton<br>
   Professor of Computer Science<br>
-  Department of Computer Science, University of Oxford<br>
+  Department of Computer Science, University of Oxford, UK<br>
   _On probabilistic programming and/or programming languages for quantum computation_
 * TBD
 
@@ -72,6 +72,7 @@ _More to come..._
   * Antonis Achilleos, Reykjavik University
   * Antti Valmari, University of Jyväskylä, Finland
   * Danny Bøgsted Poulsen, Aalborg University, Denmark
+  * Dylan McDermott, Reykjavik University, Iceland
   * Håkon Robbestad Gylterud, University of Bergen, Norway
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
