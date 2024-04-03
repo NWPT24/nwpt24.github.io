@@ -71,6 +71,7 @@ _Getting close..._
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
   * Antti Valmari, University of Jyväskylä, Finland
+  * Chad Nester, Tallinn University of Technology
   * Danny Bøgsted Poulsen, Aalborg University, Denmark
   * Dylan McDermott, Reykjavik University, Iceland
   * Fabrizio Montesi, University of Southern Denmark, Denmark
@@ -87,6 +88,7 @@ _Getting close..._
   * Niccolò Veltri, Tallinn University of Technology, Estonia
   * Patrick Bahr, IT-University of Copenhagen, Denmark
   * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
+  * Sandro Stucki, Amazon, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
   * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
   * Wojciech Mostowski, Halmstad University, Sweden
