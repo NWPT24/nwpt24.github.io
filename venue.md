@@ -1,3 +1,8 @@
+---
+layout: default
+title: 35th Nordic Workshop on Programming Theory (NWPT) - Venue
+---
+
 # Venue
 
 NWPT'24 will be held at University of Copenhagen, Denmark. 
