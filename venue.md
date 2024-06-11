@@ -17,7 +17,7 @@ More specifically the at the Frederiksberg Campus of the university in the audit
 
 
 <figure>
-  <img src="festauditoriet.jpg" alt="Image">
+  <img src="images/festauditoriet.jpg" alt="Image">
   <figcaption>Festauditoriet af Frederiksberg Campus, University of Copenhagen.</figcaption>
 </figure>
 
