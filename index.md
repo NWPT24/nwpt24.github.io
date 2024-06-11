@@ -93,6 +93,7 @@ _Getting close..._
   * Niccolò Veltri, Tallinn University of Technology, Estonia
   * Patrick Bahr, IT-University of Copenhagen, Denmark
   * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
+  * Roberto Guanciale, KTH Royal Institute of Technology, Sweden
   * Sandro Stucki, Amazon, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
   * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
