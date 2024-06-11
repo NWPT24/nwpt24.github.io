@@ -47,6 +47,7 @@ Conference dates: 6-8 November 2024
   * Maja Hanne Kirkeby, Roskilde University
   * Morten Rhiger, Roskilde University
   * Jens Classen, Roskilde University
+  * Joachim Tilsted Kristensen,   University of Oslo
   * Fritz Henglein, University of Copenhagen and Deon Digital
 
 ## Invited speakers
