@@ -76,6 +76,7 @@ _Getting close..._
   * Dylan McDermott, Reykjavik University, Iceland
   * Fabrizio Montesi, University of Southern Denmark, Denmark
   * Håkon Robbestad Gylterud, University of Bergen, Norway
+  * Jaakko Järvi, University of Turku, Finland
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
   * Magnus Madsen, Aarhus University, Denmark
@@ -91,4 +92,5 @@ _Getting close..._
   * Sandro Stucki, Amazon, Sweden
   * Thomas T. Hildebrandt, University of Copenhagen, Denmark
   * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+  * Volker Stolz, Western Norway University of Applied Sciences and University of Oslo, Norway
   * Wojciech Mostowski, Halmstad University, Sweden
