@@ -12,7 +12,9 @@ body{
 
 div.title {
     font-size: 25px;
+    font-weight: bold;
     text-align: center;
+    padding-top: 10px;
 }
 
 
