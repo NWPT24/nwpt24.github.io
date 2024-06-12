@@ -25,18 +25,17 @@ div.place {
 }
 
 h1 {
-    font-size: 25px;
-    clear: both;
-/*    text-align: center;*/
-}
-
-h2 {
     font-size: 22px;
     clear: both;
 }
 
-h3 {
+h2 {
     font-size: 18px;
+    clear: both;
+}
+
+h3 {
+    font-size: 16px;
     clear: both;
 }
 
