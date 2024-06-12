@@ -15,8 +15,13 @@ div.title {
     font-weight: bold;
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 0px;
 }
 
+div.place {
+    padding-top: 0px;
+    text-align: center;
+}
 
 h1 {
     font-size: 25px;
