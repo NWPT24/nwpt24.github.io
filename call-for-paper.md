@@ -5,10 +5,6 @@ title: 35th Nordic Workshop on Programming Theory (NWPT)
 
 # Call for Papers
 
-35th Nordic Workshop on Programming Theory<br>
-6-8 November 2024, University of Copenhagen, Copenhagen, Denmark<br>
-[nwpt24.github.io](nwpt24.github.io)
-
 ## Important dates (AoE)
 
 Submission of abstracts: September 24, 2024 23:59 AoE<br>

@@ -10,9 +10,16 @@ body{
     line-height: 1.7;
 }
 
-h1 {
+div.title {
     font-size: 25px;
     text-align: center;
+}
+
+
+h1 {
+    font-size: 25px;
+    clear: both;
+/*    text-align: center;*/
 }
 
 h2 {
