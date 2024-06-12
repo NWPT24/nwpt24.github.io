@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 35th Nordic Workshop on Programming Theory (NWPT)
+title: Call for Papers
 ---
 
 # Call for Papers
