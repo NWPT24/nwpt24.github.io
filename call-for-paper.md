@@ -5,6 +5,13 @@ title: Call for Papers
 
 # Call for Papers
 
+NWPT 2024 - 35th Nordic Workshop on Programming Theory
+
+06-08 November 2022, University of Copenhagen, Copenhagen, Denmark
+
+[https://nwpt24.github.io/](https://nwpt24.github.io/)
+
+
 ## Important dates (AoE)
 
 Submission of abstracts: September 24, 2024 23:59 AoE<br>
@@ -29,6 +36,7 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
   * real-time, hybrid/cyber-physical systems modeling and verification,
   * models of concurrency and distributed computing,
   * probabilistic and quantum programming,
+  * energy consumption of programming languages,
   * model checking,
   * model-based testing,
   * language-based security.
@@ -44,8 +52,6 @@ Work in progress as well as abstracts of manuscripts submitted for formal public
 
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
   * Maja Hanne Kirkeby, Roskilde University
-  * Morten Rhiger, Roskilde University
-  * Jens Classen, Roskilde University
   * Fritz Henglein, University of Copenhagen and Deon Digital
 
 ## Contact

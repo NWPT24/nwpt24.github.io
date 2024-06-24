@@ -45,7 +45,6 @@ Conference dates: 6-8 November 2024
   * Jens Classen, Roskilde University
   * Joachim Tilsted Kristensen, University of Oslo
   * Fritz Henglein, University of Copenhagen and Deon Digital
-  * Lars-Bo Husted Vadgaard, University of Oslo
 
 
 ## Invited speakers
