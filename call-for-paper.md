@@ -54,7 +54,6 @@ Work in progress as well as abstracts of manuscripts submitted for formal public
 
 ## Contact
 
-Questions about submissions can be sent to the conference contact email:
-
+Questions about submissions can be sent to the conference contact email:<br>
 Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>
 
