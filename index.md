@@ -73,7 +73,7 @@ _Getting close..._
   * Alceste Scalas, Technical University of Denmark, Denmark
   * Antonis Achilleos, Reykjavik University
   * Antti Valmari, University of Jyväskylä, Finland
-  * Chad Nester, Tallinn University of Technology
+  * Chad Nester, University of Tartu, Estonia
   * Danny Bøgsted Poulsen, Aalborg University, Denmark
   * Dylan McDermott, Reykjavik University, Iceland
   * Fabrizio Montesi, University of Southern Denmark, Denmark

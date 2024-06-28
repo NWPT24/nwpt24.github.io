@@ -46,7 +46,7 @@ Authors wishing to give a talk at the workshop are requested to submit abstracts
 
 Work in progress as well as abstracts of manuscripts submitted for formal publication elsewhere are permitted. The abstracts of the accepted contributions will be available electronically before the workshop. By submitting to EasyChair you agree that your abstract will be publicly available. Moreover, you as an author are responsible for the content.
 
-## Organizers and PC chairs
+## Organisers and PC chairs
 
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
   * Maja Hanne Kirkeby, Roskilde University
