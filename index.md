@@ -81,7 +81,7 @@ Conference dates: 6-8 November 2024
   * Keijo Heljanko, University of Helsinki, Finland
   * Magnus Madsen, Aarhus University, Denmark
   * Magnus Myreen, Chalmers University of Technology, Sweden 
-  * Marina Waldén, Abo Akademi University, Finland
+  * Marina Waldén, Åbo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
   * Martin Steffen, University of Oslo, Norway
