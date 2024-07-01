@@ -68,10 +68,8 @@ Conference dates: 6-8 November 2024
 
 ### Members
 
-_Getting close..._
-
   * Alceste Scalas, Technical University of Denmark, Denmark
-  * Antonis Achilleos, Reykjavik University
+  * Antonis Achilleos, Reykjavik University, Iceland
   * Antti Valmari, University of Jyväskylä, Finland
   * Chad Nester, University of Tartu, Estonia
   * Danny Bøgsted Poulsen, Aalborg University, Denmark
@@ -82,6 +80,7 @@ _Getting close..._
   * Johannes Borgström, Uppsala University, Sweden
   * Keijo Heljanko, University of Helsinki, Finland
   * Magnus Madsen, Aarhus University, Denmark
+  * Magnus Myreen, Chalmers University of Technology, Sweden 
   * Marina Waldén, Abo Akademi University, Finland
   * Marjan Sirjani, Malardalen University, Sweden
   * Martin Elsman, University of Copenhagen, Denmark
