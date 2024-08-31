@@ -46,6 +46,8 @@ Conference dates: 6-8 November 2024
   * Joachim Tilsted Kristensen, University of Oslo
   * Fritz Henglein, University of Copenhagen and Deon Digital
 
+For questions, contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
+
 
 ## Invited speakers
 
@@ -59,19 +61,21 @@ Conference dates: 6-8 November 2024
   _On probabilistic programming and/or programming languages for quantum computation_
 * TBD
 
+### Sponsor and support
+
+<figure>
+  <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
+  <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
+</figure>
+
+If you are interestend in becomming a sponsor for NWPT'24, you can contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
+
 ## Program Committee
 
 ### Chairs
   * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
   * Maja Hanne Kirkeby, Roskilde University, Denmark
   * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
-
-### Sponsor
-
-<figure>
-  <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
-  <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
-</figure>
 
 ### Members
 
