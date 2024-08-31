@@ -61,7 +61,7 @@ For questions, contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku
   _On probabilistic programming and/or programming languages for quantum computation_
 * TBD
 
-### Sponsor and support
+## Sponsor and support
 
 <figure>
   <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
