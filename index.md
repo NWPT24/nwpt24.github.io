@@ -37,18 +37,6 @@ Final version abstract submission: October 29, 2024, 23:59 AoE<br>
 Conference dates: 6-8 November 2024
 
 
-## Organisation committee
-
-  * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
-  * Maja Hanne Kirkeby, Roskilde University
-  * Morten Rhiger, Roskilde University
-  * Jens Classen, Roskilde University
-  * Joachim Tilsted Kristensen, University of Oslo
-  * Fritz Henglein, University of Copenhagen and Deon Digital
-
-For questions, contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
-
-
 ## Invited speakers
 
 * [João Saraiva](https://www.inesctec.pt/en/people/joao-alexandre-saraiva)<br>
@@ -61,6 +49,18 @@ For questions, contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku
   _On probabilistic programming and/or programming languages for quantum computation_
 * TBD
 
+## Organisation committee
+
+  * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
+  * Maja Hanne Kirkeby, Roskilde University
+  * Morten Rhiger, Roskilde University
+  * Jens Classen, Roskilde University
+  * Joachim Tilsted Kristensen, University of Oslo
+  * Fritz Henglein, University of Copenhagen and Deon Digital
+
+For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
+
+
 ## Sponsor and support
 
 <figure>
@@ -70,40 +70,7 @@ For questions, contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku
 
 If you are interestend in becomming a sponsor for NWPT'24, you can contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
 
-## Program Committee
 
-### Chairs
-  * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
-  * Maja Hanne Kirkeby, Roskilde University, Denmark
-  * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
+## Contact
 
-### Members
-
-  * Alceste Scalas, Technical University of Denmark, Denmark
-  * Antonis Achilleos, Reykjavik University, Iceland
-  * Antti Valmari, University of Jyväskylä, Finland
-  * Chad Nester, University of Tartu, Estonia
-  * Danny Bøgsted Poulsen, Aalborg University, Denmark
-  * Dylan McDermott, Reykjavik University, Iceland
-  * Fabrizio Montesi, University of Southern Denmark, Denmark
-  * Håkon Robbestad Gylterud, University of Bergen, Norway
-  * Jaakko Järvi, University of Turku, Finland
-  * Johannes Borgström, Uppsala University, Sweden
-  * Keijo Heljanko, University of Helsinki, Finland
-  * Magnus Madsen, Aarhus University, Denmark
-  * Magnus Myreen, Chalmers University of Technology, Sweden 
-  * Marina Waldén, Åbo Akademi University, Finland
-  * Marjan Sirjani, Malardalen University, Sweden
-  * Martin Elsman, University of Copenhagen, Denmark
-  * Martin Steffen, University of Oslo, Norway
-  * Mikhail Barash, University of Bergen
-  * Morten Rhiger, Roskilde University, Denmark
-  * Niccolò Veltri, Tallinn University of Technology, Estonia
-  * Patrick Bahr, IT-University of Copenhagen, Denmark
-  * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
-  * Roberto Guanciale, KTH Royal Institute of Technology, Sweden
-  * Sandro Stucki, Amazon, Sweden
-  * Thomas T. Hildebrandt, University of Copenhagen, Denmark
-  * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
-  * Volker Stolz, Western Norway University of Applied Sciences and University of Oslo, Norway
-  * Wojciech Mostowski, Halmstad University, Sweden
+For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.

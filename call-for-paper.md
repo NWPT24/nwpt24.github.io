@@ -46,11 +46,43 @@ Authors wishing to give a talk at the workshop are requested to submit abstracts
 
 Work in progress as well as abstracts of manuscripts submitted for formal publication elsewhere are permitted. The abstracts of the accepted contributions will be available electronically before the workshop. By submitting to EasyChair you agree that your abstract will be publicly available. Moreover, you as an author are responsible for the content.
 
-## Organisers and PC chairs
+## Program Committee
 
-  * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
-  * Maja Hanne Kirkeby, Roskilde University
-  * Fritz Henglein, University of Copenhagen and Deon Digital
+### Chairs
+  * Fritz Henglein, University of Copenhagen and Deon Digital, Denmark
+  * Maja Hanne Kirkeby, Roskilde University, Denmark
+  * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
+
+### Members
+
+  * Alceste Scalas, Technical University of Denmark, Denmark
+  * Antonis Achilleos, Reykjavik University, Iceland
+  * Antti Valmari, University of Jyväskylä, Finland
+  * Chad Nester, University of Tartu, Estonia
+  * Danny Bøgsted Poulsen, Aalborg University, Denmark
+  * Dylan McDermott, Reykjavik University, Iceland
+  * Fabrizio Montesi, University of Southern Denmark, Denmark
+  * Håkon Robbestad Gylterud, University of Bergen, Norway
+  * Jaakko Järvi, University of Turku, Finland
+  * Johannes Borgström, Uppsala University, Sweden
+  * Keijo Heljanko, University of Helsinki, Finland
+  * Magnus Madsen, Aarhus University, Denmark
+  * Magnus Myreen, Chalmers University of Technology, Sweden 
+  * Marina Waldén, Åbo Akademi University, Finland
+  * Marjan Sirjani, Malardalen University, Sweden
+  * Martin Elsman, University of Copenhagen, Denmark
+  * Martin Steffen, University of Oslo, Norway
+  * Mikhail Barash, University of Bergen
+  * Morten Rhiger, Roskilde University, Denmark
+  * Niccolò Veltri, Tallinn University of Technology, Estonia
+  * Patrick Bahr, IT-University of Copenhagen, Denmark
+  * Philipp Ruemmer, University of Regensburg, Germany and Uppsala University, Sweden
+  * Roberto Guanciale, KTH Royal Institute of Technology, Sweden
+  * Sandro Stucki, Amazon, Sweden
+  * Thomas T. Hildebrandt, University of Copenhagen, Denmark
+  * Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+  * Volker Stolz, Western Norway University of Applied Sciences and University of Oslo, Norway
+  * Wojciech Mostowski, Halmstad University, Sweden
 
 ## Contact
 
