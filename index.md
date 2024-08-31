@@ -66,6 +66,13 @@ Conference dates: 6-8 November 2024
   * Maja Hanne Kirkeby, Roskilde University, Denmark
   * Michael Kirkedal Thomsen, University of Copenhagen, Denmark and University of Oslo, Norway
 
+### Sponsor
+
+<figure>
+  <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
+  <figcaption>Support was gratefully received from the Carlsberg Foundation.</figcaption>
+</figure>
+
 ### Members
 
   * Alceste Scalas, Technical University of Denmark, Denmark
