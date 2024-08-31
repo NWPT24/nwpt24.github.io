@@ -70,7 +70,7 @@ Conference dates: 6-8 November 2024
 
 <figure>
   <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
-  <figcaption>Support was gratefully received from the Carlsberg Foundation.</figcaption>
+  <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
 </figure>
 
 ### Members
