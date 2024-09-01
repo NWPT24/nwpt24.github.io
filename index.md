@@ -72,9 +72,9 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 
 Would you like to sponsor keynote and reception Friday, 15-17 CET, to make it open and free to the public (up to the capacity of auditorium)? We provide multiple options for you.
 
-* <b>Bronze (DKK 5000):</b></br>
+* <b>Bronze (DKK 5000):</b><br/>
   Your logo and link on the NWPT 2024 website and in symposium materials; your roll-up or poster in the social space outside the symposium lecture room; one free registration (which can be donated to somebody else). Your sponsorship contributes to discounted student registration by partially covering on-site food and facility costs for students.
-* <b>Silver (DKK 10000), final reception sponsor:</b></br>
+* <b>Silver (DKK 10000), final reception sponsor:</b><br/>
   All of Bronze, plus: Named sponsor of final reception; with sponsor presentation (in lecture room or social space) at the beginning of the industrial reception.
 
 If you are interestend in becomming a sponsor for NWPT'24, you can contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
