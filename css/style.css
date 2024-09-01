@@ -175,6 +175,7 @@ h2 > a {
     padding-bottom: 0px;
     padding-left: 2em;
     padding-right: 2em;
+    width:  200px;
     height: 80px;
     object-fit: scale-down;
 }
