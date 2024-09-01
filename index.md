@@ -75,7 +75,7 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 
 ### Becomming an Industrial Sponsors
 
-Would you like to sponsor keynote and reception Friday, 15-17 CET, to make it open and free to the public (up to the capacity of auditorium)? We provide multiple options for you.
+Would you like to sponsor keynote and reception Friday, afternoon, to make it open and free to the public (up to the capacity of auditorium)? We provide multiple options for you.
 
 * <b>Bronze (DKK 5000):</b><br/>
   Your logo and link on the NWPT 2024 website and in symposium materials; your roll-up or poster in the social space outside the symposium lecture room; one free registration (which can be donated to somebody else). Your sponsorship contributes to discounted student registration by partially covering on-site food and facility costs for students.
