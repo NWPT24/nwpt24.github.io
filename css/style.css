@@ -170,12 +170,11 @@ h2 > a {
     text-align: center;
 }
 
-.sponsor-images > a {
+.sponsor-images > img {
     padding-top: 0px;
     padding-bottom: 0px;
     padding-left: 2em;
     padding-right: 2em;
-    width:  200px;
     height: 80px;
     object-fit: scale-down;
 }
