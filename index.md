@@ -67,6 +67,11 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
   <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
   <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
 </figure>
+<figure>
+  <a href="https://www.ku.dk/english/"><img src="images/ku.png" width="400" alt="University of Copenhagen"></a>
+  <figcaption>University of Copenhagen support NWPT'24 with location and organisation</figcaption>
+</figure>
+
 
 ### Becomming an Industrial Sponsors
 
