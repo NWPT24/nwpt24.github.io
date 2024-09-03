@@ -35,7 +35,7 @@ The workshop will be held at the historic Auditorium. If walls could speak, the 
 You will enter via the colourful stairwell rotunda, decorated by the famous Danish artist-cum-geologist, <a href="https://en.wikipedia.org/wiki/Per_Kirkeby" target="_blank">Per Kirkeby</a>.
 
 <figure>
-  <img src="images/SMN-kirkeby-rotunda" alt="The Kirkeby Rotunda">
+  <img src="images/SMN-kirkeby-rotunda.jpg" alt="The Kirkeby Rotunda">
   <figcaption>The Kirkeby Rotunda.</figcaption>
 </figure>
 
