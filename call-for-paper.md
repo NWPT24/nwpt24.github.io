@@ -45,6 +45,7 @@ Authors wishing to give a talk at the workshop are requested to submit abstracts
 [https://easychair.org/conferences/?conf=nwpt2024](https://easychair.org/conferences/?conf=nwpt2024)
 
 Work in progress as well as abstracts of manuscripts submitted for formal publication elsewhere are permitted. The abstracts of the accepted contributions will be available electronically before the workshop. By submitting to EasyChair you agree that your abstract will be publicly available. Moreover, you as an author are responsible for the content.
+We plan to arrange am optinal special issue of the Journal of Logical and Algebraic Methods in Programming (JLAMP) devoted to the best contributions to the workshop. The contributions will be selected by the PC. They will be invited after the workshop and will undergo a rigorous, journal-strength review process according to the standards of JLAMP.
 
 ## Program Committee
 
