@@ -70,6 +70,9 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 <figure>
   <a href="https://www.ku.dk/english/"><img src="images/ku.png" width="400" alt="University of Copenhagen"></a>
   <figcaption>University of Copenhagen supports NWPT'24 with location and organisation.</figcaption>
+<figure>
+  <a href="https://ruc.dk/en"><img src="images/RUC-logo.png" width="400" alt="Roskilde University"></a>
+  <figcaption>Roskilde University supports NWPT'24 with organisation and merchandise.</figcaption>
 </figure>
 
 
