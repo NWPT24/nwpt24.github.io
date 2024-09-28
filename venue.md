@@ -29,7 +29,7 @@ The workshop will be held at the historic Auditorium. If walls could speak, the 
 
 <figure>
   <img src="images/SMN-auditoriet.jpg" alt="The Auditorium">
-  <figcaption>The auditoruim of Natural History Museum.</figcaption>
+  <figcaption>The auditorium of Natural History Museum.</figcaption>
 </figure>
 
 You will enter via the colourful stairwell rotunda, decorated by the famous Danish artist-cum-geologist, <a href="https://en.wikipedia.org/wiki/Per_Kirkeby" target="_blank">Per Kirkeby</a>.
@@ -40,4 +40,3 @@ You will enter via the colourful stairwell rotunda, decorated by the famous Dani
 </figure>
 
 Source: <a href="https://snm.dk/en/hold-your-event-or-meeting-natural-history-museum-denmark" target="_blank">snm.dk</a>
-
