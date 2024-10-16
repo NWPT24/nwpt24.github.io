@@ -21,6 +21,7 @@ The registration fee includes:
 
 Registration deadline: Monday October 28, 2024, 12:00 CEST
 
+Register via the following link:
 <a href="https://eventsignup.ku.dk/35thnordicworkshoponprogrammingtheory">https://eventsignup.ku.dk/35thnordicworkshoponprogrammingtheory</a>
 
 

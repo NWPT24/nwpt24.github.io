@@ -21,8 +21,8 @@ The central location in the heart of Copenhagen gives easy access to idyllic par
   <figcaption>Geocenter Copenhagen of University of Copenhagen in Copenhagen.</figcaption>
 </figure>
 
-Today, the building is part of the <a href="https://en.wikipedia.org/wiki/City_Campus_(University_of_Copenhagen)">City Campus of University of Copenhagen</a>, but was originally built for 
-<a href="https://historie.dtu.dk/dtus-historie/steder/adresser/ostervoldgade">Polyteknisk Læreanstalt</a> (today Danish Technical University, DTU), that was housed here until they moved to their current location in 1974.
+Today, the building is part of the <a href="https://en.wikipedia.org/wiki/City_Campus_(University_of_Copenhagen)" target="_blank">City Campus of University of Copenhagen</a>, but was originally built for 
+<a href="https://historie.dtu.dk/dtus-historie/steder/adresser/ostervoldgade" target="_blank">Polyteknisk Læreanstalt</a> (today Danish Technical University, DTU), that was housed here until they moved to their current location in 1974.
 
 
 
