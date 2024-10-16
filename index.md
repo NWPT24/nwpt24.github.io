@@ -32,7 +32,7 @@ include (but are not limited to):
 
 <s>Submission of abstracts: September 24, 2024 23:59 AoE</s><br>
 Extended submission of abstracts: October 1, 2024 23:59 AoE<br>
-Notification: October 15, 2024<br>
+Notification: October 15, 2024 AoE<br>
 Registration deadline: October 22, 2024, 23:59 AoE<br>
 Final version abstract submission: October 29, 2024, 23:59 AoE<br>
 Conference dates: 6-8 November 2024
