@@ -23,7 +23,7 @@ Geocenter Copenhagen, University of Copenhagen<br>
 The central location in the heart of Copenhagen gives easy access to idyllic parks (Kings garden and the Botanical garden), hotels, and transport to the airport from Nørreport station.
 
 <figure>
-  <img src="images/Geocencter.webp" alt="IGN from Østre Voldgade">
+  <img src="images/geocenter.webp" alt="IGN from Østre Voldgade">
   <figcaption>Geocenter Copenhagen of University of Copenhagen in Copenhagen.</figcaption>
 </figure>
 
