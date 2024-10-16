@@ -87,7 +87,7 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 </figure>
 
 
-### Becomming an Industrial Sponsors
+<!-- ### Becomming an Industrial Sponsors
 
 Would you like to sponsor keynote and reception Friday, afternoon, to make it open and free to the public (up to the capacity of auditorium)? We provide multiple options for you.
 
@@ -97,7 +97,7 @@ Would you like to sponsor keynote and reception Friday, afternoon, to make it op
   All of Bronze, plus: Named sponsor of final reception; with sponsor presentation (in lecture room or social space) at the beginning of the industrial reception.
 
 If you are interestend in becomming a sponsor for NWPT'24, you can contact Michael Kirkedal Thomsen <a href="mailto:m.kirkedal@di.ku.dk">m.kirkedal@di.ku.dk</a>.
-
+ -->
 
 ## Contact
 
