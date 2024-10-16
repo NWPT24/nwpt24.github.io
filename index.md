@@ -37,6 +37,10 @@ Registration deadline: October 25, 2024, 12:00 CEST<br>
 Final version abstract submission: October 29, 2024, 23:59 AoE<br>
 Conference dates: 6-8 November 2024
 
+* <a href="call-for-paper.html">Call for papers</a>
+* <a href="call-for-paper.html#program-committee">Program Committee</a>
+
+
 
 ## Invited speakers
 
