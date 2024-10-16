@@ -9,7 +9,7 @@ NWPT takes place in Copenhagen from Nov 6 to 8. See more information under venue
 
 The registration fee is:
   * Regular: 1.800 dkr.
-  * Student (phd and master): 1.400 dkr.
+  * Student (PhD, master's, bachelor's): 1.400 dkr.
 
 All fees are including 25% Danish VAT.
 
@@ -25,9 +25,9 @@ Registration deadline: Monday October 28, 2024, 12:00 CEST
 
 
 ## Instructions
-* Choose "Regular" on the first sign-up page unless you are a Ph.D., Master's or bachelor's student enrolled at an accredited university. 
+* Choose "Regular" on the first sign-up page unless you are a PhD, Master's or bachelor's student enrolled at an accredited university. 
 * Fill the form and click "Continue". Unless you want to add more.
-* Read the conditions, check the "I have read..." box, "I accept that I will receive meails regarding NWPT", and continue.
+* Read the conditions, check the "I have read..." box, "I accept that I will receive emails regarding NWPT", and continue.
 * Fill the invoice information. If you know your university's EU VAT number, fill it into the CVR field on the 'Orderer' page; if not, don't worry about it. (The VAT number may help your university recover Danish VAT included in the registration fee.) Choose "Email invoice" (unless you are employed at UCPH). Read and accept conditions, and continue.
 * Finalise the payment with credit card or MobilePay.
 
