@@ -66,7 +66,7 @@ Auditorium A
  * Philipp Stassen, Rasmus Ejlers Møgelberg, Maaike Zwart, Alejandro Aguirre and Lars Birkedal; _Modelling a Probabilistic Programming Language in Clocked Cubical Type Theory_
  * Samuel Grahn and Elli Anastasiadi; _Modeling systems via register machines for the verification of weak memory models_
  * Stian Øverby and Joachim Tilsted Kristensen; _Probably: A programming language with stochastic let-bindings_
- * Thomas Baar and Volker Stolz; _Finding Inductive Invariants Fastly - A Support Technique for Deductive Software Verification_
+ * Thomas Baar and Volker Stolz; _Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification_
  * Till Hofmann and Jens Classen; _Strategy Synthesis for First-Order Agent Programs over Finite Traces_
  * Timmie Lagermann, Kristina Carter, Su Ho and Maja Kirkeby; _UI Test Automation Framework for Energy Analysis: Exploring Energy Compositionality of Actions_
  * Torben Ægidius Mogensen; _A Simple Method for Inverting Tail-Recursive Functions_
