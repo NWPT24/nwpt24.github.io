@@ -7,7 +7,7 @@ title: Keynote Wednesday
 
 Wednesday November 6 @ 09:05
 
-Speaker: João Saraiva<br>
+João Saraiva<br>
 Professor Auxiliar<br>
 Department of Informatics, University of Minho and HASLab / INESC TEC, Portugal
 

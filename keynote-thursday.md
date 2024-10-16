@@ -7,7 +7,7 @@ title: Keynote Thursday
 
 Thursday November 7 @ 09:05
 
-Speaker: Sam Staton<br>
+Sam Staton<br>
 Professor of Computer Science<br>
 Department of Computer Science, University of Oxford, UK<br>
 

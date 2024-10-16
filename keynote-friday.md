@@ -7,7 +7,7 @@ title: Keynote Wednesday
 
 Friday November 8 @ 13:30
 
-Speaker: Martin Berger<br>
+Martin Berger<br>
 Senior Lecturer, University of Sussex<br>
 Researcher at HiSilicon<br>
 
