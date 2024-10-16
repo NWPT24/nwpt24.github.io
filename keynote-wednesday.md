@@ -15,9 +15,9 @@ Title: On recent work on the area of programming, languages and their energy con
 
 ## Location
 Geocenter Copenhagen<br>
-Auditorium B
-Østre Voldgade 10
-1350 København K
+Auditorium B<br>
+Østre Voldgade 10<br>
+1350 København K<br>
 <i>Follow the signs for NWPT</i>
 
 ## Registration

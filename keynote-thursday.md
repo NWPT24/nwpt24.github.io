@@ -15,9 +15,9 @@ Title: On probabilistic programming and/or programming languages for quantum com
 
 ## Location
 Geocenter Copenhagen<br>
-Auditorium B
-Østre Voldgade 10
-1350 København K
+Auditorium B<br>
+Østre Voldgade 10<br>
+1350 København K<br>
 <i>Follow the signs for NWPT</i>
 
 ## Registration

@@ -16,9 +16,9 @@ Title: Use of GPUs for formal verification
 
 ## Location
 Geocenter Copenhagen<br>
-Auditorium A
-Østre Voldgade 10
-1350 København K
+Auditorium A<br>
+Østre Voldgade 10<br>
+1350 København K<br>
 <i>Follow the signs for NWPT</i>
 
 ## Registration
