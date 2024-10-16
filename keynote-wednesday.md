@@ -3,7 +3,9 @@ layout: default
 title: Keynote Wednesday
 ---
 
-# Keynote Wednesday 9:00
+# Keynote: João Saraiva
+
+Wednesday November 6 @ 09:05
 
 Speaker: João Saraiva<br>
 Professor Auxiliar<br>
@@ -11,10 +13,25 @@ Department of Informatics, University of Minho and HASLab / INESC TEC, Portugal
 
 Title: On recent work on the area of programming, languages and their energy consumption
 
-Abstract
+## Location
+Geocenter Copenhagen<br>
+Auditorium B
+Østre Voldgade 10
+1350 København K
+<i>Follow the signs for NWPT</i>
+
+## Registration
+Registration is required and it costs 50 kr, which includes coffee in the breaks before and after.
+
+https://ku-nat.conferencemanager.dk/?eventcode=keynote
+
+## Time
+Friday November 6, from 09:05 to 10:00
+
+This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat.
+
+## Abstract
 [TBA]
 
-## Location
-
-
-
+## Biography
+[TBA]
