@@ -11,6 +11,7 @@ Speaker: Martin Berger<br>
 Senior Lecturer, University of Sussex<br>
 Researcher at HiSilicon<br>
 
+
 Title: Use of GPUs for formal verification
 
 ## Location
@@ -23,7 +24,7 @@ Auditorium A
 ## Registration
 Registration is required and it costs 50 kr, which includes coffee in the breaks before and after.
 
-https://ku-nat.conferencemanager.dk/?eventcode=keynote
+<a href="https://ku-nat.conferencemanager.dk/?eventcode=keynote" target="_blank">https://ku-nat.conferencemanager.dk/?eventcode=keynote</a>
 
 ## Time
 Friday November 8, from 13:30 to 14:30

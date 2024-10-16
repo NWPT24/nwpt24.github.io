@@ -26,6 +26,6 @@ NWPT has the following three keynote that you can register for:
 ## Registration
 Registration is required and it costs 50 kr. per keynote. This includes coffee in the breaks before and after.
 
-https://ku-nat.conferencemanager.dk/?eventcode=keynote
+<a href="https://ku-nat.conferencemanager.dk/?eventcode=keynote" target="_blank">https://ku-nat.conferencemanager.dk/?eventcode=keynote</a>
 
 See details for each talk above.

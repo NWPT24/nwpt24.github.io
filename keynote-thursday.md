@@ -23,7 +23,7 @@ Auditorium B
 ## Registration
 Registration is required and it costs 50 kr, which includes coffee in the breaks before and after.
 
-https://ku-nat.conferencemanager.dk/?eventcode=keynote
+<a href="https://ku-nat.conferencemanager.dk/?eventcode=keynote" target="_blank">https://ku-nat.conferencemanager.dk/?eventcode=keynote</a>
 
 ## Time
 Friday November 7, from 09:05 to 10:00
