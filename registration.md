@@ -5,8 +5,6 @@ title: Registration
 
 # Registration
 
-NWPT takes place in Copenhagen from Nov 6 to 8. See more information under venue.
-
 The registration fee is:
   * Regular: 1.800 dkr.
   * Student (PhD, master's, bachelor's): 1.400 dkr.
