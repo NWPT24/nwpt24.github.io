@@ -40,5 +40,5 @@ The following is a draft program outline
 * 10:00 Session 7
 * 12:00 Lunch
 * 13:30 Keynote 3
-* 14:30 Possible end reception
+* 14:30 Closing session and "fyraftensbajer" (end of work beer)
 
