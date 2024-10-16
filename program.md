@@ -47,3 +47,26 @@ Auditorium A
 * 13:30 Keynote 3
 * 14:30 Closing session and "fyraftensbajer" (end of work beer)
 
+## Accepted papers
+
+ * Andreas Brandhøj, Dat Dieu, Kasper Vesteraa, Danny Poulsen, René Hansen and Kim Larsen; _DropShadow: Hypercontracts in Go_
+ * Behnam Khodabandeloo, Chengzi Huang, Morteza Mohaqeqi, Susanne Graf and Wang Yi; _Buffer Overflow and Deadlock Detection for Real-Time Systems_
+ * Chad Nester and Niels Voorneveld; _On the Operational Semantics of the Free Cornering with Protocol Choice_
+ * Christian Kalhauge; _Input Reduction Revisited_
+ * Duc Anh Nguyen, Philipp Rümmer and Wang Yi; _Verification of Data-flow Networks Using the KeY Theorem Prover_
+ * Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti; _Compositional Design and Verification of Swarm Protocols_
+ * Fritz Henglein, Changjun Li and Mikkel Kragh Mathiesen; _Simple Worst-Case Optimal Joins (Extended Abstract)_
+ * Haining Tong and Keijo Heljanko; _GPU Consistency Analysis with Dartagnan_
+ * Joachim Kristensen and Matthias Gissurarson; _Saving memory by collapsing sparse lists_
+ * Joel Nyholm, Wojciech Mostowski and Christoph Reichenbach; _Bayesian Energy Profiler for Java (Extended Abstract)_
+ * Ksenija Kivojenko, Edwin Smagin, Ian Erik Varatalu and Juhan Ernits; _Towards text extraction learning with regular expressions extended with complement, intersection and lookarounds_
+ * Nikolaj Kristensen, Benjamin Bennetzen, Daniel Kleist, Peter Steffensen, Emilie Steinmann and Loke Walsted; _A Type System to Ensure Non-interference in ReScript_
+ * Nikolaj Kristensen, Benjamin Bennetzen, Loke Walsted, Peter Steffensen, Emilie Steinmann and Daniel Kleist; _Cost Analysis for Import and Export Using an Abstract Machine_
+ * Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti and Lars Birkedal; _Approximate Relational Reasoning for Higher-Order Probabilistic Programs_
+ * Philipp Stassen, Rasmus Ejlers Møgelberg, Maaike Zwart, Alejandro Aguirre and Lars Birkedal; _Modelling a Probabilistic Programming Language in Clocked Cubical Type Theory_
+ * Samuel Grahn and Elli Anastasiadi; _Modeling systems via register machines for the verification of weak memory models_
+ * Stian Øverby and Joachim Tilsted Kristensen; _Probably: A programming language with stochastic let-bindings_
+ * Thomas Baar and Volker Stolz; _Finding Inductive Invariants Fastly - A Support Technique for Deductive Software Verification_
+ * Till Hofmann and Jens Classen; _Strategy Synthesis for First-Order Agent Programs over Finite Traces_
+ * Timmie Lagermann, Kristina Carter, Su Ho and Maja Kirkeby; _UI Test Automation Framework for Energy Analysis: Exploring Energy Compositionality of Actions_
+ * Torben Ægidius Mogensen; _A Simple Method for Inverting Tail-Recursive Functions_
