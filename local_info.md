@@ -5,11 +5,11 @@ title: Local Information
 
 # Travel
 
-For participants from Germany, there are several direct trains from Hamburg Hbf to Koebenhavn H (5 hours). You can buy tickets though <a href="http://bahn.com">http://bahn.com</a>.
+For participants from Sweden, there are several direct trains or busses to Koebenhavn H.
 
-For other international participants (also from Germany, if they like), you can fly to Copenhagen Airport (CPH). There is unfortunately no direct flight from South Korea.
+For other international participants, you can fly to Copenhagen Airport (CPH).
 
-The airport has a direct connection to the centre by Metro (15 minutes) and by train to the main station (København H). 
+The airport has a direct connection to the centre (Nørreport) by Metro (15 minutes) and by train to the main station (København H).
  
 # Hotel
 There are many hotel options in Copenhagen. 
@@ -37,7 +37,7 @@ Planning local public transport can be done with Google Maps or the local <a hre
 When entering metro, S-trains and trains, you must have a valid ticket already. If you don’t have one you can get a fine of 750 DKK (100 EUR). Tickets can be bought in one of the following ways:
 - At tickets machines at the stations (card or cash)
 - With bus drivers on busses (cash only)
-- With the <a href="https://www.publictransport.dk/app">DOT Tickets App</a>
+- With the <a href="https://www.publictransport.dk/app">DOT Tickets App</a> (RECOMMENDED)
 - Getting the local <a href="https://www.rejsekort.dk/en/bestil/rejsekort-anonymt">Rejsekort Anonymous</a>
 
 ## DOT Tickets App
