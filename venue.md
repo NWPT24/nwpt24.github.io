@@ -3,12 +3,6 @@ layout: default
 title: Venue
 ---
 
-# Registration
-
-Registration will open later.
-
-We expect a participation fee of no more than 1.800 DKK including lunches and coffee (all three days), conference dinner, social event, and reception. There will be a "discounted" prices for students.
-
 # Venue
 
 NWPT'24 will be held at University of Copenhagen, Denmark. 
