@@ -49,7 +49,8 @@ Conference dates: 6-8 November 2024
   Department of Computer Science, University of Oxford, UK<br>
   _On probabilistic programming and/or programming languages for quantum computation_
 * [Martin Berger](https://martinfriedrichberger.net/)<br>
-  Senior Lecturer, University of Sussex & Researcher at HiSilicon
+  Senior Lecturer, University of Sussex & Researcher at HiSilicon<br>
+  _On GPUs and LTL_
 
 ## Organisation committee
 
