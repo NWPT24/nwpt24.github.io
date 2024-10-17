@@ -19,22 +19,7 @@ Conference dates: 6-8 November 2024<br>
 
 ## Scope
 NWPT is a series of annual regional-scope workshops on programming theory, targeted especially at younger researchers. In 2024, the workshop will take place in Copenhagen, Denmark. We hope this will be a nice opportunity to present recent results and/or work-in-progress, and to meet colleagues from the Nordic and Baltic countries. We encourage PhD students and postdocs to contribute. Topics of interest include (but are not limited to):
-
-  * semantics of programming languages,
-  * programming language design and programming methodology,
-  * programming logics,
-  * formal specification of programs,
-  * program verification,
-  * program construction,
-  * tools for program verification and construction,
-  * program transformation and refinement,
-  * real-time, hybrid/cyber-physical systems modeling and verification,
-  * models of concurrency and distributed computing,
-  * probabilistic and quantum programming,
-  * energy consumption of programming languages,
-  * model checking,
-  * model-based testing,
-  * language-based security.
+ semantics of programming languages, programming language design and programming methodology, programming logics, formal specification of programs, program verification, program construction, tools for program verification and construction, program transformation and refinement, real-time, hybrid/cyber-physical systems modeling and verification, models of concurrency and distributed computing, probabilistic and quantum programming, energy consumption of programming languages, model checking, model-based testing, language-based security.
 
 
 ## Invited speakers
@@ -62,8 +47,25 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
 See the following page:
 https://nwpt24.github.io/program.html
 
+## Registration
+The registration fee is:
+
+* Regular: 1.800 dkr.
+* Student (PhD, master’s, bachelor’s): 1.400 dkr.
+All fees are including 25% Danish VAT.
+
+The registration fee includes:
+
+* lunches all three days,
+* coffee/the and cake during the workshop,
+* welcome reception, and
+* conference dinner.
+
+More information and registration on:
+https://nwpt24.github.io/registration.html
+
 ## Contact
 
-Questions about submissions can be sent to the conference contact email:<br>
+Questions about registration can be sent to the conference contact email:<br>
 Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>
 
