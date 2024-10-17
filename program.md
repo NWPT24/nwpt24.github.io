@@ -34,8 +34,7 @@ Auditorium B
 * 13:30 Session 5
 * 15:00 Break (with coffee, the, and cake)
 * 15:30 Session 6
-* 18:00 Workshop dinner (includes 3 course dinner and drinks (both alcoholic and non-alcoholic) + coffee until 22:00)
-  * Held at "Café og Ølhalle 1892", Rømersgade 22, 1362 København K (<a href="https://maps.app.goo.gl/e4YMZL91bdVeL8f18" target="_blank">Google pin</a>)
+* 18:00 to 22:00 Workshop dinner, including 3 course dinner and drinks (<a href="venue.html#workshop-dinner">details</a>)
 
 
 ## Friday November 8

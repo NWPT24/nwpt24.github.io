@@ -32,8 +32,24 @@ This will be held at the old observatory, Østre Voldgade 3, 1350 København K (
 
 
 ## Workshop Dinner
-Held at "Café og Ølhalle 1892", Rømersgade 22, 1362 København K (<a href="https://maps.app.goo.gl/e4YMZL91bdVeL8f18" target="_blank">Google pin</a>)
+The workshop dinner will be held from 18:00 to 22:00 at
 
+"Café og Ølhalle 1892"<br>
+Rømersgade 22<br>
+1362 København K<br>
+<a href="https://maps.app.goo.gl/e4YMZL91bdVeL8f18" target="_blank">Google pin</a>
+
+The is the basement location of the workers museum.
+
+The standard menu, will follow a classical Danish Christmas food:
+
+* Starter: Gravad laks m. rævedressing. (Kind of marinated salmon)
+* Main dish: Confiteret andelår m. brune kartofler & skysauce. (Confit duck leg with caramelised potato and sauce)
+Dessert: Ris a la mande (kind of Danish rice pudding) + coffee/tea
+
+There will also be alternative dietary restricted options.
+
+Throughout, the dinner you can choose from a selection of beers, wine and soft drinks.
 
 
 
