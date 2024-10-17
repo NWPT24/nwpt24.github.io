@@ -31,7 +31,8 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
   Department of Computer Science, University of Oxford, UK<br>
   _On probabilistic programming and/or programming languages for quantum computation_
 * [Martin Berger](https://martinfriedrichberger.net/)<br>
-  Senior Lecturer, University of Sussex & Researcher at HiSilicon<br>
+  Senior Lecturer, University of Sussex<br>
+  Researcher at HiSilicon<br>
   _Use of GPUs for formal verification_
 
 
