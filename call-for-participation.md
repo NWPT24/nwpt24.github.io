@@ -44,7 +44,7 @@ NWPT is a series of annual regional-scope workshops on programming theory, targe
 
 ## Program and accepted papers
 See the following page:
-https://nwpt24.github.io/program.html
+[https://nwpt24.github.io/program.html](https://nwpt24.github.io/program.html)
 
 ## Registration
 The registration fee is:
@@ -61,7 +61,7 @@ The registration fee includes:
 * conference dinner.
 
 More information and registration on:
-https://nwpt24.github.io/registration.html
+[https://nwpt24.github.io/registration.html](https://nwpt24.github.io/registration.html)
 
 ## Contact
 
