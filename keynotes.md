@@ -28,4 +28,6 @@ Registration is required and it costs 50 kr. per keynote. This includes coffee i
 
 <a href="https://ku-nat.conferencemanager.dk/?eventcode=keynote" target="_blank">https://ku-nat.conferencemanager.dk/?eventcode=keynote</a>
 
+Registration deadline: Monday November 4 @ 12:00.
+
 See details for each talk above.
