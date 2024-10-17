@@ -27,7 +27,7 @@ include (but are not limited to):
 - model-based testing
 - language-based security.
 
-## Important dates (Tentative)
+## Important dates
 
 <s>Submission of abstracts: September 24, 2024 23:59 AoE</s><br>
 Extended submission of abstracts: October 1, 2024 23:59 AoE<br>
