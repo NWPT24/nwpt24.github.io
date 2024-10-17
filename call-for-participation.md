@@ -51,6 +51,7 @@ The registration fee is:
 
 * Regular: 1.800 dkr.
 * Student (PhD, master’s, bachelor’s): 1.400 dkr.
+
 All fees are including 25% Danish VAT.
 
 The registration fee includes:
