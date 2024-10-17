@@ -70,19 +70,19 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 ## Sponsor and support
 
 <figure>
-  <a href="https://www.carlsbergfondet.dk/en"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
+  <a href="https://www.carlsbergfondet.dk/en" target="_blank"><img src="images/Carlsbergfondet_logo_2-liner_UK_RGB_GREEN.png" width="400" alt="Carslberg Foundation Sponsor Logo"></a>
   <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
 </figure>
 <figure>
-  <a href="https://www.prosa.dk/"><img src="images/prosa.png" width="400" alt="PROSA"></a>
+  <a href="https://www.prosa.dk/" target="_blank"><img src="images/prosa.png" width="400" alt="PROSA"></a>
   <figcaption>Sponsorship was gratefully received from the PROSA, Danish union for IT-professionals.</figcaption>
 </figure>
 <figure>
-  <a href="https://www.ku.dk/english/"><img src="images/ku.png" width="400" alt="University of Copenhagen"></a>
+  <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" width="400" alt="University of Copenhagen"></a>
   <figcaption>University of Copenhagen supports NWPT'24 with location and organisation.</figcaption>
 </figure>
 <figure>
-  <a href="https://ruc.dk/en"><img src="images/RUC-logo.jpg" width="300" alt="Roskilde University"></a>
+  <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" width="300" alt="Roskilde University"></a>
   <figcaption>Roskilde University supports NWPT'24 with organisation and merchandise.</figcaption>
 </figure>
 
