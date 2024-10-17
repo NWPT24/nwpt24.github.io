@@ -3,7 +3,7 @@ layout: default
 title: Call for Papers
 ---
 
-# Call for Participation
+# Call for Participation: NWPT 2024
 
 NWPT 2024 - 35th Nordic Workshop on Programming Theory<br>
 06-08 November 2024, University of Copenhagen, Copenhagen, Denmark<br>
