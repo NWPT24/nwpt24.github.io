@@ -3,13 +3,6 @@ layout: default
 title: Program
 ---
 
-<script type="text/javascript">
-    function toggleRow(e){
-      var subRow = e.parentNode.parentNode.nextElementSibling;
-      subRow.style.display = subRow.style.display === 'none' ? 'table-row' : 'none';
-    }
-</script>
-
 # Program
 
 The following is a draft program outline
@@ -55,7 +48,8 @@ Auditorium A
 * 12:00 Lunch
 * 13:30 Keynote<br>
   Martin Berger<br>
-  _Use of GPUs for formal verification_
+  <span href="#" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Use of GPUs for formal verification_</span>
+  <span style="display: none;">test</span>
 
 * 14:30 Closing session and "fyraftensbajer" (end of work beer)
 
