@@ -52,8 +52,8 @@ Conference dates: 6-8 November 2024
   Department of Computer Science, University of Oxford, UK<br>
   _On probabilistic programming and/or programming languages for quantum computation_
 * [Martin Berger](https://martinfriedrichberger.net/)<br>
-  Senior Lecturer, University of Sussex & Researcher at HiSilicon<br>
-  _Use of GPUs for formal verification_
+  Senior Lecturer, University of Sussex & Researcher, Montanarius Ltd<br>
+  _Towards GPU-accelerated automated reasoning_
 
 ## Organisation committee
 
