@@ -3,6 +3,13 @@ layout: default
 title: Program
 ---
 
+<script type="text/javascript">
+    function toggleRow(e){
+      var subRow = e.parentNode.parentNode.nextElementSibling;
+      subRow.style.display = subRow.style.display === 'none' ? 'table-row' : 'none';
+    }
+</script>
+
 # Program
 
 The following is a draft program outline
