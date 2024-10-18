@@ -30,7 +30,7 @@ Registration deadline: Monday November 4 @ 12:00.
 ## Time
 Friday November 7, from 09:05 to 10:00
 
-This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat.
+This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat. Coffee, tea will be served.
 
 ## Abstract
 [TBA]

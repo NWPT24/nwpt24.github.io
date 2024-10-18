@@ -31,7 +31,7 @@ Registration deadline: Monday November 4 @ 12:00.
 ## Time
 Friday November 8, from 13:30 to 14:30
 
-This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat. We will servere coffee, cake, and to end the conference "fyraftensbajer".
+This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat. We will servere coffee, tea, cake, and to end the conference "fyraftensbajer".
 
 ## Abstract
 [TBA]
