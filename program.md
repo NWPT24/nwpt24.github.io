@@ -48,7 +48,7 @@ Auditorium A
 * 12:00 Lunch
 * 13:30 Keynote<br>
   Martin Berger, University of Sussex & Montanarius Ltd<br>
-  <a href="#" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Use of GPUs for formal verification_</a>
+  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Use of GPUs for formal verification_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b> University of Sussex & Montanarius Ltd<br>
     <b>Abstract:</b> Graphics Processing Units (GPUs) are the work-horses of high-performance computing. The acceleration they provide to applications compatible with their programming paradigm can surpass CPU performance by several orders of magnitude, as notably evidenced by the advancements in deep learning. A significant spectrum of applications, especially within automated reasoning—like SAT/SMT solvers—has yet to reap the benefits of GPU acceleration.  In this talk we discuss recent work that successfully implemented program synthesis on GPUs and used it to accelerate learning of logical specifications from examples.  We conclude by mapping out a research programme to move more formal verification workloads to GPUs.<br>
