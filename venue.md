@@ -36,6 +36,11 @@ We will have a welcome reception at will be held at the old <a href="https://en.
 1350 København K<br>
 <a href="https://maps.app.goo.gl/PKjXXf9ebTyjPNfA8" target="_blank">Google pin</a>
 
+<figure>
+  <img src="images/observatoriet.jpg" alt="Copenhagen University Observatory">
+  <figcaption>Copenhagen University Observatory.</figcaption>
+</figure>
+
 Today it houses the <a href="https://www.aicentre.dk/" target="_blank">Pioneer Centre for Artificial Intelligence</a> but is 1861 is was build at a replacement for the observatory in Rundetårn. The observatory is build on top of the old bastions of Copenhagen and therefore hold a prominent view of the city.
 
 We will start the reception with a small tour, (if the weather permits) have a view of Copenhagen from roof of the observatory and see the double refractor telescope from 1895.
@@ -51,6 +56,12 @@ The workshop dinner will be held from 18:00 to 22:00 at
 Rømersgade 22<br>
 1362 København K<br>
 <a href="https://maps.app.goo.gl/e4YMZL91bdVeL8f18" target="_blank">Google pin</a>
+
+<figure>
+  <img src="images/olhalle-mix.jpg" alt="Cafe og Ølhalle 1982">
+  <figcaption>Cafe og Ølhalle 1982.</figcaption>
+</figure>
+
 
 The is the basement location of the workers museum.
 
