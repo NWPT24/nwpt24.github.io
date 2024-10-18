@@ -12,7 +12,9 @@ Auditorium B
 
 * 08:30 Registration opens (with coffee, the, and croissant)
 * 09:00 Workshop opens
-* 09:05 Keynote 1
+* 09:05 Keynote<br>
+  João Saraiva<br>
+  _On recent work on the area of programming, languages and their energy consumption_
 * 10:00 Break (with coffee and the)
 * 10:30 Session 1
 * 12:00 Lunch
@@ -26,7 +28,9 @@ Auditorium B
 Auditorium B
 
 * 08:30 Day opens (with coffee, the, and croissant)
-* 09:05 Keynote 2
+* 09:05 Keynote<br>
+  Sam Staton<br>
+  _On probabilistic programming and/or programming languages for quantum computation_
 * 10:00 Break (with coffee and the)
 * 10:30 Session 4
 * 12:00 Lunch
@@ -42,7 +46,10 @@ Auditorium A
 * 09:30 Day opens (with coffee, the, and croissant)
 * 10:00 Session 7
 * 12:00 Lunch
-* 13:30 Keynote 3
+* 13:30 Keynote<br>
+  Martin Berger<br>
+  _Use of GPUs for formal verification_
+
 * 14:30 Closing session and "fyraftensbajer" (end of work beer)
 
 ## Accepted papers
