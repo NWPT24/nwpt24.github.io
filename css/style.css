@@ -161,8 +161,8 @@ h2 > a {
 .horizontal-images > img {
     padding-left: 2em;
     padding-right: 2em;
-    width:  250px;
-    height: 166px;
+    width:  200px;
+    height: 148px;
     object-fit: cover;
 }
 
