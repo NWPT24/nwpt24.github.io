@@ -27,8 +27,21 @@ The central location in the heart of Copenhagen gives easy access to idyllic par
 Today, the building is part of the <a href="https://en.wikipedia.org/wiki/City_Campus_(University_of_Copenhagen)" target="_blank">City Campus of University of Copenhagen</a>, but was originally built for 
 <a href="https://historie.dtu.dk/dtus-historie/steder/adresser/ostervoldgade" target="_blank">Polyteknisk Læreanstalt</a> (today Danish Technical University, DTU), that was housed here until they moved to their current location in 1974.
 
+
+
 ## Welcome Reception
-This will be held at the old observatory, Østre Voldgade 3, 1350 København K (<a href="https://maps.app.goo.gl/PKjXXf9ebTyjPNfA8" target="_blank">Google pin</a>)
+We will have a welcome reception at will be held at the old <a href="https://en.wikipedia.org/wiki/%C3%98stervold_Observatory" target="_blank">Copenhagen University Observatory</a>:
+
+Østre Voldgade 3,<br>
+1350 København K<br>
+<a href="https://maps.app.goo.gl/PKjXXf9ebTyjPNfA8" target="_blank">Google pin</a>
+
+Today it houses the <a href="https://www.aicentre.dk/" target="_blank">Pioneer Centre for Artificial Intelligence</a> but is 1861 is was build at a replacement for the observatory in Rundetårn. The observatory is build on top of the old bastions of Copenhagen and therefore hold a prominent view of the city.
+
+We will start the reception with a small tour, (if the weather permits) have a view of Copenhagen from roof of the observatory and see the double refractor telescope from 1895.
+
+Following this, there will be served tapas and drinks in a lounge area of the building. We also plan a simple activity that should encourage conversation.
+
 
 
 ## Workshop Dinner

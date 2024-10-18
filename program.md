@@ -19,8 +19,7 @@ Auditorium B
 * 13:30 Session 2
 * 15:00 Break (with coffee, the, and cake)
 * 15:30 Session 3
-* 17:30 Welcome reception with activity (includes tapas, drinks, etc.)
-  * This will be held at the old observatory, Østre Voldgade 3, 1350 København K (<a href="https://maps.app.goo.gl/PKjXXf9ebTyjPNfA8" target="_blank">Google pin</a>)
+* 17:30 Welcome reception with activities, including tapas, drinks, etc. (<a href="venue.html#welcome-reception">details</a>)
 
 
 ## Thursday November 7
