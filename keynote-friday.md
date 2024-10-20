@@ -3,7 +3,7 @@ layout: default
 title: Keynote Wednesday
 ---
 
-# NWPT Keynote: Martin Berger
+# NWPT Keynote: Martin Berger; Towards GPU-accelerated automated reasoning
 
 Friday November 8 @ 13:30
 
@@ -13,7 +13,7 @@ Researcher, Montanarius Ltd<br>
 <a href="https://martinfriedrichberger.net/" target="_blank">https://martinfriedrichberger.net/</a>
 
 
-Title: University of Sussex & Montanarius Ltd
+Title: Towards GPU-accelerated automated reasoning
 
 ## Location
 Geocenter Copenhagen<br>
