@@ -10,16 +10,21 @@ The following is a draft program outline
 ## Wednesday November 6
 Auditorium B
 
-* 08:30 Registration opens (with coffee, the, and croissant)
+* 08:30 Registration opens (with coffee, tea, and croissant)
 * 09:00 Workshop opens
 * 09:05 Keynote<br>
   João Saraiva<br>
-  _On recent work on the area of programming, languages and their energy consumption_
-* 10:00 Break (with coffee and the)
+<span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_On recent work on the area of programming, languages and their energy consumption_</span>
+  <span style="display: none;"><br>
+    <b>Affiliation:</b>University of Minho and HASLab / INESC TEC, Portugal<br>
+    <b>Abstract:</b> <br>
+    <b>Biography:</b> 
+  </span>
+* 10:00 Break (with coffee and tea)
 * 10:30 Session 1
 * 12:00 Lunch
 * 13:30 Session 2
-* 15:00 Break (with coffee, the, and cake)
+* 15:00 Break (with coffee, tea, and cake)
 * 15:30 Session 3
 * 17:30 Welcome reception with activities, including tapas, drinks, etc. (<a href="venue.html#welcome-reception">details</a>)
 
@@ -27,15 +32,20 @@ Auditorium B
 ## Thursday November 7
 Auditorium B
 
-* 08:30 Day opens (with coffee, the, and croissant)
-* 09:05 Keynote<br>
+* 08:30 Day opens (with coffee, tea, and croissant)
+* 09:05 Keynote, Chair: Fritz Henglein<br>
   Sam Staton<br>
-  _On probabilistic programming and/or programming languages for quantum computation_
-* 10:00 Break (with coffee and the)
+  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_On probabilistic programming and/or programming languages for quantum computation_</span>
+  <span style="display: none;"><br>
+    <b>Affiliation:</b>University of Oxford, UK<br>
+    <b>Abstract:</b> <br>
+    <b>Biography:</b> 
+  </span>
+* 10:00 Break (with coffee and tea)
 * 10:30 Session 4
 * 12:00 Lunch
 * 13:30 Session 5
-* 15:00 Break (with coffee, the, and cake)
+* 15:00 Break (with coffee, tea, and cake)
 * 15:30 Session 6
 * 18:00 to 22:00 Workshop dinner, including 3 course dinner and drinks (<a href="venue.html#workshop-dinner">details</a>)
 
@@ -43,11 +53,11 @@ Auditorium B
 ## Friday November 8
 Auditorium A
 
-* 09:30 Day opens (with coffee, the, and croissant)
+* 09:30 Day opens (with coffee, tea, and croissant)
 * 10:00 Session 7
 * 12:00 Lunch
 * 13:30 Keynote<br>
-  Martin Berger<br>
+  <b>Martin Berger</b><br>
   <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Towards GPU-accelerated automated reasoning_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b>University of Sussex & Montanarius Ltd<br>
