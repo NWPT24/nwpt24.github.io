@@ -74,7 +74,7 @@ For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
   <figcaption>Support was gratefully received from the Carlsberg Foundation, grant CF24-0923.</figcaption>
 </figure>
 <figure>
-  <a href="https://www.prosa.dk/" target="_blank"><img src="images/prosa.png" width="400" alt="PROSA"></a>
+  <a href="https://www.prosa.dk/" target="_blank"><img src="images/prosa.svg" width="400" alt="PROSA"></a>
   <figcaption>Sponsorship was gratefully received from the PROSA, Danish union for IT-professionals.</figcaption>
 </figure>
 <figure>
