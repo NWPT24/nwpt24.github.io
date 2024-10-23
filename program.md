@@ -15,11 +15,15 @@ Auditorium B
   Jakob Grue Simonsen, Head of Department, DIKU
 * 09:05 Keynote, Chair: Maja Hanne Kirkeby<br>
   João Saraiva<br>
-<span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_On recent work on the area of programming, languages and their energy consumption_</span>
+<span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Energy Efficiency in Programming Languages_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b>University of Minho and HASLab / INESC TEC, Portugal<br>
-    <b>Abstract:</b> <br>
-    <b>Biography:</b> 
+    <b>Abstract:</b> In this talk I will compare a large set of programming languages regarding their energy efficiency.  We have taken 19 solutions to well defined programming problems, expressed in (up to) 27 programming languages, from well know repositories such as the Computer Language Benchmark Game and Rosetta Code.<br>
+	In our research, my group built a framework to automatically, and systematically, run, measure and compare the efficiency of such solutions. Ultimately, it is based on such comparison that we propose a serious of efficiency rankings, based on multiple criteria.<br>
+	Our results show interesting findings, such as, slower/faster languages consuming less/more energy, and how memory usage influences energy consumption. We also show how to use our results to provide software engineers support to decide which language to use when energy efficiency is a concern.<br>
+	In this talk I will also  present our most recent results on leveraging power caps to save energy consumption across programming languages.<br>
+    <b>Biography:</b> João Saraiva is an Associate Professor at the Department of de Informatics, University of  Minho, Braga, Portugal, and a researcher member of HASLab/INESC TEC. He obtained a MSc degree from University do Minho in 1993 and a Ph.D. degree in Computer Science from Utrecht University in 1999. His main research contributions have been in the field of programming language design and implementation, program analysis and transformation, functional programming, and green software.  He has experience in participating and coordinating research projects in his research areas, both at national level with projects funded by FCT (projects: PURe, IVY, AMADEUS, CROSS, SSaaPP, AutoSeer, FATBIT, and GreenSwLab) and at international level with projects funded by EPSRC (UK), FLAD/NSF (USA) and by the European Union.<br>
+	João Saraiva is one of the founders of the successful series of summer schools on Generative and Transformational Techniques in Software Engineering (GTTSE), which he co-organized in 2005, 2007, 2009, 2011, and 2015 (volumes 4143, 5235, 6491, 7680 and 10223 of LNCS - Tutorial by Springer-Verlag) in Braga. He was the organizing chair of ETAPS'07, The European Joint Conferences on Theory and Practice of Software, organized in Braga in 2007, and the worksho co-chair of ICSE'24 held in Lisbon.
   </span>
 * 10:00 Break (with coffee and tea)
 * 10:30 Session 1
