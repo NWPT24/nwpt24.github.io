@@ -10,7 +10,7 @@ The following is a draft program outline
 ## Wednesday November 6
 Auditorium B
 
-* 08:30 Registration opens (with coffee, tea, and croissant)
+* 08:30 Registration opens (with coffee, tea, croissant, and wienerbrød)
 * 09:00 Workshop opens<br>
   Jakob Grue Simonsen, Head of Department, DIKU
 * 09:05 Keynote, Chair: Maja Hanne Kirkeby<br>
@@ -37,7 +37,7 @@ Auditorium B
 ## Thursday November 7
 Auditorium B
 
-* 08:30 Day opens (with coffee, tea, and croissant)
+* 08:30 Day opens (with coffee, tea, croissant, and wienerbrød)
 * 09:05 Keynote, Chair: Fritz Henglein<br>
   <b>Sam Staton</b><br>
   <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Programming theory meets statistical modelling_</span>
@@ -58,7 +58,7 @@ Auditorium B
 ## Friday November 8
 Auditorium A
 
-* 09:30 Day opens (with coffee, tea, and croissant)
+* 09:30 Day opens (with coffee, tea, croissant, and wienerbrød)
 * 10:00 Session 7
 * 12:00 Lunch
 * 13:30 Keynote, Chair: Michael Kirkedal Thomsen<br>
