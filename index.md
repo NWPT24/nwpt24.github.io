@@ -46,11 +46,11 @@ Conference dates: 6-8 November 2024
 * [João Saraiva](https://www.inesctec.pt/en/people/joao-alexandre-saraiva)<br>
   Professor Auxiliar<br>
   Department of Informatics, University of Minho and HASLab / INESC TEC, Portugal<br>
-  _On recent work on the area of programming, languages and their energy consumption_
+  _Energy Efficiency in Programming Languages_
 * [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)<br>
   Professor of Computer Science<br>
   Department of Computer Science, University of Oxford, UK<br>
-  _On probabilistic programming and/or programming languages for quantum computation_
+  _Programming theory meets statistical modelling_
 * [Martin Berger](https://martinfriedrichberger.net/)<br>
   Senior Lecturer, University of Sussex & Researcher, Montanarius Ltd<br>
   _Towards GPU-accelerated automated reasoning_
