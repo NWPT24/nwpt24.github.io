@@ -11,7 +11,7 @@ Sam Staton<br>
 Professor of Computer Science<br>
 Department of Computer Science, University of Oxford, UK<br>
 
-Title: On probabilistic programming and/or programming languages for quantum computation
+Title: Programming theory meets statistical modelling
 
 ## Location
 Geocenter Copenhagen<br>
@@ -33,7 +33,7 @@ Friday November 7, from 09:05 to 10:00
 This is the time when the talk start. You are welcome to come 30 minutes before and stay after for networking and chat. Coffee, tea will be served.
 
 ## Abstract
-[TBA]
+ I will discuss the idea that concepts from programming theory have a role to play in statistical modelling. Indeed they are already playing this role to some extent, but in different guises. These concepts include abstract types and lazy data structures, as well as more theoretical ideas such as effect gradings, monoidal indeterminates and sheaf categories. So I will present some opportunities for using programming theory to inform and formalize the abstract structure of statistics and probability, including some recent and ongoing results from myself and collaborators. I won't assume much familiarity.
 
 ## Biography
-[TBA]
+Sam is a professor of Computer Science in Oxford. He has previously worked in Nijmegen, Paris and Cambridge. The talk will be based on work funded by the ERC grant "BLAST: Better Languages for Statistics" and the ARIA Project "Employing categorical probability towards safe AI".

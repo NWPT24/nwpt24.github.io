@@ -40,11 +40,11 @@ Auditorium B
 * 08:30 Day opens (with coffee, tea, and croissant)
 * 09:05 Keynote, Chair: Fritz Henglein<br>
   Sam Staton<br>
-  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_On probabilistic programming and/or programming languages for quantum computation_</span>
+  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Programming theory meets statistical modelling_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b>University of Oxford, UK<br>
-    <b>Abstract:</b> <br>
-    <b>Biography:</b> <br><br>
+    <b>Abstract:</b>  I will discuss the idea that concepts from programming theory have a role to play in statistical modelling. Indeed they are already playing this role to some extent, but in different guises. These concepts include abstract types and lazy data structures, as well as more theoretical ideas such as effect gradings, monoidal indeterminates and sheaf categories. So I will present some opportunities for using programming theory to inform and formalize the abstract structure of statistics and probability, including some recent and ongoing results from myself and collaborators. I won't assume much familiarity.<br>
+    <b>Biography:</b> Sam is a professor of Computer Science in Oxford. He has previously worked in Nijmegen, Paris and Cambridge. The talk will be based on work funded by the ERC grant "BLAST: Better Languages for Statistics" and the ARIA Project "Employing categorical probability towards safe AI".<br><br>
   </span>
 * 10:00 Break (with coffee and tea)
 * 10:30 Session 4
