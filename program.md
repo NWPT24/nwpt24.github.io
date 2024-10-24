@@ -14,7 +14,7 @@ Auditorium B
 * 09:00 Workshop opens<br>
   Jakob Grue Simonsen, Head of Department, DIKU
 * 09:05 Keynote, Chair: Maja Hanne Kirkeby<br>
-  João Saraiva<br>
+  <b>João Saraiva</b><br>
 <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Energy Efficiency in Programming Languages_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b> University of Minho and HASLab / INESC TEC, Portugal<br>
@@ -39,7 +39,7 @@ Auditorium B
 
 * 08:30 Day opens (with coffee, tea, and croissant)
 * 09:05 Keynote, Chair: Fritz Henglein<br>
-  Sam Staton<br>
+  <b>Sam Staton</b><br>
   <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Programming theory meets statistical modelling_</span>
   <span style="display: none;"><br>
     <b>Affiliation:</b> University of Oxford, UK<br>
