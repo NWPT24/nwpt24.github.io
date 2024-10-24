@@ -17,7 +17,7 @@ Auditorium B
   João Saraiva<br>
 <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Energy Efficiency in Programming Languages_</span>
   <span style="display: none;"><br>
-    <b>Affiliation:</b>University of Minho and HASLab / INESC TEC, Portugal<br>
+    <b>Affiliation:</b> University of Minho and HASLab / INESC TEC, Portugal<br>
     <b>Abstract:</b> In this talk I will compare a large set of programming languages regarding their energy efficiency.  We have taken 19 solutions to well defined programming problems, expressed in (up to) 27 programming languages, from well know repositories such as the Computer Language Benchmark Game and Rosetta Code.<br>
 	In our research, my group built a framework to automatically, and systematically, run, measure and compare the efficiency of such solutions. Ultimately, it is based on such comparison that we propose a serious of efficiency rankings, based on multiple criteria.<br>
 	Our results show interesting findings, such as, slower/faster languages consuming less/more energy, and how memory usage influences energy consumption. We also show how to use our results to provide software engineers support to decide which language to use when energy efficiency is a concern.<br>
@@ -42,7 +42,7 @@ Auditorium B
   Sam Staton<br>
   <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >_Programming theory meets statistical modelling_</span>
   <span style="display: none;"><br>
-    <b>Affiliation:</b>University of Oxford, UK<br>
+    <b>Affiliation:</b> University of Oxford, UK<br>
     <b>Abstract:</b>  I will discuss the idea that concepts from programming theory have a role to play in statistical modelling. Indeed they are already playing this role to some extent, but in different guises. These concepts include abstract types and lazy data structures, as well as more theoretical ideas such as effect gradings, monoidal indeterminates and sheaf categories. So I will present some opportunities for using programming theory to inform and formalize the abstract structure of statistics and probability, including some recent and ongoing results from myself and collaborators. I won't assume much familiarity.<br>
     <b>Biography:</b> Sam is a professor of Computer Science in Oxford. He has previously worked in Nijmegen, Paris and Cambridge. The talk will be based on work funded by the ERC grant "BLAST: Better Languages for Statistics" and the ARIA Project "Employing categorical probability towards safe AI".<br><br>
   </span>
