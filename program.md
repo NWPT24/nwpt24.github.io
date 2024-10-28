@@ -26,20 +26,24 @@ Auditorium B
 	João Saraiva is one of the founders of the successful series of summer schools on Generative and Transformational Techniques in Software Engineering (GTTSE), which he co-organized in 2005, 2007, 2009, 2011, and 2015 (volumes 4143, 5235, 6491, 7680 and 10223 of LNCS - Tutorial by Springer-Verlag) in Braga. He was the organizing chair of ETAPS'07, The European Joint Conferences on Theory and Practice of Software, organized in Braga in 2007, and the worksho co-chair of ICSE'24 held in Lisbon.<br><br>
   </span>
 * 10:00 Break (with coffee and tea)
-* 10:30 Session 1<br>
-  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Duc Anh Nguyen, Philipp Rümmer and Wang Yi; _Verification of Data-flow Networks Using the KeY Theorem Prover_</span>
+* 10:30 Session 1
+  <ul>
+  <li><span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Duc Anh Nguyen, Philipp Rümmer and Wang Yi; _Verification of Data-flow Networks Using the KeY Theorem Prover_</span>
   <span style="display: none;"><br>
     <b>Abstract:</b><br><br>
   </span>
-  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Thomas Baar and Volker Stolz; _Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification_</span>
+  </li>
+  <li><span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Thomas Baar and Volker Stolz; _Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification_</span>
   <span style="display: none;"><br>
     <b>Abstract:</b><br><br>
   </span>
+  </li>
+  <li>
   <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti; _Compositional Design and Verification of Swarm Protocols_</span>
   <span style="display: none;"><br>
     <b>Abstract:</b><br><br>
   </span>
-
+  </li>
 * 12:00 Lunch
 * 13:30 Session 2
 * 15:00 Break (with coffee, tea, and cake)
