@@ -108,18 +108,98 @@ Auditorium B
   </span>
 * 10:00 Break (with coffee and tea)
 * 10:30 Session 4
+  <ul>
+    <li>Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti and Lars Birkedal<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Approximate Relational Reasoning for Higher-Order Probabilistic Programs</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Stian Øverby and Joachim Tilsted Kristensen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Probably: A programming language with stochastic let-bindings</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Philipp Stassen, Rasmus Ejlers Møgelberg, Maaike Zwart, Alejandro Aguirre and Lars Birkedal<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Modelling a Probabilistic Programming Language in Clocked Cubical Type Theory</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 12:00 Lunch
 * 13:30 Session 5
+  <ul>
+    <li>Ksenija Kivojenko, Edwin Smagin, Ian Erik Varatalu and Juhan Ernits<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Towards text extraction learning with regular expressions extended with complement, intersection and lookarounds</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Nikolaj Kristensen, Benjamin Bennetzen, Daniel Kleist, Peter Steffensen, Emilie Steinmann and Loke Walsted<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>A Type System to Ensure Non-interference in ReScript</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Fritz Henglein, Changjun Li and Mikkel Kragh Mathiesen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Simple Worst-Case Optimal Joins</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 15:00 Break (with coffee, tea, and cake)
 * 15:30 Session 6
+  <ul>
+    <li>Nikolaj Kristensen, Benjamin Bennetzen, Loke Walsted, Peter Steffensen, Emilie Steinmann and Daniel Kleist<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Cost Analysis for Import and Export Using an Abstract Machine</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Timmie Lagermann, Kristina Carter, Su Ho and Maja Kirkeby<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>UI Test Automation Framework for Energy Analysis: Exploring Energy Compositionality of Actions</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Joel Nyholm, Wojciech Mostowski and Christoph Reichenbach<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Bayesian Energy Profiler for Java</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 18:00 to 22:00 Workshop dinner, including 3 course dinner and drinks (<a href="venue.html#workshop-dinner">details</a>)
 
 
 ## Friday November 8
 Auditorium A
 
-* 09:30 Day opens (with coffee, tea, croissant, and wienerbrød)
-* 10:00 Session 7
+* 10:00 Day opens (with coffee, tea, croissant, and wienerbrød)
+* 10:30 Session 7
+  <ul>
+    <li>Christian Kalhauge<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Input Reduction Revisited</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Torben Ægidius Mogensen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>A Simple Method for Inverting Tail-Recursive Functions</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Joachim Kristensen and Matthias Gissurarson<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Saving memory by collapsing sparse lists</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 12:00 Lunch
 * 13:30 Keynote, Chair: Michael Kirkedal Thomsen<br>
   <b>Martin Berger</b><br>
@@ -130,7 +210,7 @@ Auditorium A
     <b>Biography:</b> Martin Berger did his PhD in formal models for distributed systems at Imperial College. He's currently an associate professor in the Department of Informatics at the University of Sussex.  He's also working as a verification consultant for the microprocessor industry, and is one of the maintainers of the official RISC-V instruction set architecture (<a href="https://github.com/riscv/sail-riscv" target="_blank">https://github.com/riscv/sail-riscv</a>).  His research interests include: logic and verification, typing systems, process calculus, meta-programming, JIT compiler.<br><br>
   </span>
 * 14:30 Closing session and "fyraftensbajer" (end of work beer)
-
+<!-- 
 ## Accepted papers
 
  * Andreas Brandhøj, Dat Dieu, Kasper Vesteraa, Danny Poulsen, René Hansen and Kim Larsen; _DropShadow: Hypercontracts in Go_
@@ -154,3 +234,4 @@ Auditorium A
  * Till Hofmann and Jens Classen; _Strategy Synthesis for First-Order Agent Programs over Finite Traces_
  * Timmie Lagermann, Kristina Carter, Su Ho and Maja Kirkeby; _UI Test Automation Framework for Energy Analysis: Exploring Energy Compositionality of Actions_
  * Torben Ægidius Mogensen; _A Simple Method for Inverting Tail-Recursive Functions_
+ -->
