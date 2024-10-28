@@ -19,37 +19,78 @@ Auditorium B
   <span style="display: none;"><br>
     <b>Affiliation:</b> University of Minho and HASLab / INESC TEC, Portugal<br>
     <b>Abstract:</b> In this talk I will compare a large set of programming languages regarding their energy efficiency.  We have taken 19 solutions to well defined programming problems, expressed in (up to) 27 programming languages, from well know repositories such as the Computer Language Benchmark Game and Rosetta Code.<br>
-	In our research, my group built a framework to automatically, and systematically, run, measure and compare the efficiency of such solutions. Ultimately, it is based on such comparison that we propose a serious of efficiency rankings, based on multiple criteria.<br>
-	Our results show interesting findings, such as, slower/faster languages consuming less/more energy, and how memory usage influences energy consumption. We also show how to use our results to provide software engineers support to decide which language to use when energy efficiency is a concern.<br>
-	In this talk I will also  present our most recent results on leveraging power caps to save energy consumption across programming languages.<br>
+  In our research, my group built a framework to automatically, and systematically, run, measure and compare the efficiency of such solutions. Ultimately, it is based on such comparison that we propose a serious of efficiency rankings, based on multiple criteria.<br>
+  Our results show interesting findings, such as, slower/faster languages consuming less/more energy, and how memory usage influences energy consumption. We also show how to use our results to provide software engineers support to decide which language to use when energy efficiency is a concern.<br>
+  In this talk I will also  present our most recent results on leveraging power caps to save energy consumption across programming languages.<br>
     <b>Biography:</b> João Saraiva is an Associate Professor at the Department of de Informatics, University of  Minho, Braga, Portugal, and a researcher member of HASLab/INESC TEC. He obtained a MSc degree from University do Minho in 1993 and a Ph.D. degree in Computer Science from Utrecht University in 1999. His main research contributions have been in the field of programming language design and implementation, program analysis and transformation, functional programming, and green software.  He has experience in participating and coordinating research projects in his research areas, both at national level with projects funded by FCT (projects: PURe, IVY, AMADEUS, CROSS, SSaaPP, AutoSeer, FATBIT, and GreenSwLab) and at international level with projects funded by EPSRC (UK), FLAD/NSF (USA) and by the European Union.<br>
-	João Saraiva is one of the founders of the successful series of summer schools on Generative and Transformational Techniques in Software Engineering (GTTSE), which he co-organized in 2005, 2007, 2009, 2011, and 2015 (volumes 4143, 5235, 6491, 7680 and 10223 of LNCS - Tutorial by Springer-Verlag) in Braga. He was the organizing chair of ETAPS'07, The European Joint Conferences on Theory and Practice of Software, organized in Braga in 2007, and the worksho co-chair of ICSE'24 held in Lisbon.<br><br>
+  João Saraiva is one of the founders of the successful series of summer schools on Generative and Transformational Techniques in Software Engineering (GTTSE), which he co-organized in 2005, 2007, 2009, 2011, and 2015 (volumes 4143, 5235, 6491, 7680 and 10223 of LNCS - Tutorial by Springer-Verlag) in Braga. He was the organizing chair of ETAPS'07, The European Joint Conferences on Theory and Practice of Software, organized in Braga in 2007, and the worksho co-chair of ICSE'24 held in Lisbon.<br><br>
   </span>
 * 10:00 Break (with coffee and tea)
 * 10:30 Session 1
   <ul>
-  <li>Duc Anh Nguyen, Philipp Rümmer and Wang Yi<br>
-  	  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Verification of Data-flow Networks Using the KeY Theorem Prover</i></span>
+    <li>Duc Anh Nguyen, Philipp Rümmer and Wang Yi<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Verification of Data-flow Networks Using the KeY Theorem Prover</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
-  </li>
-  <li>Thomas Baar and Volker Stolz<br>
-  	  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification</i></span>
+    </li>
+    <li>Thomas Baar and Volker Stolz<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
-  </li>
-  <li>Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti<br>
+    </li>
+    <li>Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Compositional Design and Verification of Swarm Protocols</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
-  </li>
+    </li>
+  </ul>
 * 12:00 Lunch
 * 13:30 Session 2
+  <ul>
+    <li>Samuel Grahn and Elli Anastasiadi<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Modeling systems via register machines for the verification of weak memory models</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Haining Tong and Keijo Heljanko<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>GPU Consistency Analysis with Dartagnan</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Behnam Khodabandeloo, Chengzi Huang, Morteza Mohaqeqi, Susanne Graf and Wang Yi<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Buffer Overflow and Deadlock Detection for Real-Time Systems</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 15:00 Break (with coffee, tea, and cake)
 * 15:30 Session 3
+  <ul>
+    <li>Chad Nester and Niels Voorneveld<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>On the Operational Semantics of the Free Cornering with Protocol Choice</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Andreas Brandhøj, Dat Dieu, Kasper Vesteraa, Danny Poulsen, René Hansen and Kim Larsen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>DropShadow: Hypercontracts in Go</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Till Hofmann and Jens Classen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Strategy Synthesis for First-Order Agent Programs over Finite Traces</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+  </ul>
 * 17:30 Welcome reception with activities, including tapas, drinks, etc. (<a href="venue.html#welcome-reception">details</a>)
 
 
