@@ -28,21 +28,23 @@ Auditorium B
 * 10:00 Break (with coffee and tea)
 * 10:30 Session 1
   <ul>
-  <li><span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Duc Anh Nguyen, Philipp Rümmer and Wang Yi<br><i>Verification of Data-flow Networks Using the KeY Theorem Prover</i></span>
-  <span style="display: none;"><br>
-    <b>Abstract:</b><br><br>
-  </span>
+  <li>Duc Anh Nguyen, Philipp Rümmer and Wang Yi<br>
+  	  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Verification of Data-flow Networks Using the KeY Theorem Prover</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
   </li>
-  <li><span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Thomas Baar and Volker Stolz<br><i>Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification</i></span>
-  <span style="display: none;"><br>
-    <b>Abstract:</b><br><br>
-  </span>
+  <li>Thomas Baar and Volker Stolz<br>
+  	  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Finding Inductive Invariants Fast - A Support Technique for Deductive Software Verification</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
   </li>
-  <li>
-  <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" >Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti<br><i>Compositional Design and Verification of Swarm Protocols</i></span>
-  <span style="display: none;"><br>
-    <b>Abstract:</b><br><br>
-  </span>
+  <li>Florian Furbach, Alceste Scalas, Emilio Tuosto, Roland Kuhn and Hernan Melgratti<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Compositional Design and Verification of Swarm Protocols</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
   </li>
 * 12:00 Lunch
 * 13:30 Session 2
