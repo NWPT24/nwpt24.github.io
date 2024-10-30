@@ -131,20 +131,20 @@ Auditorium B
 * 12:00 Lunch
 * 13:30 Session 5
   <ul>
-    <li>Ksenija Kivojenko, Edwin Smagin, Ian Erik Varatalu and Juhan Ernits<br>
-      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Towards text extraction learning with regular expressions extended with complement, intersection and lookarounds</i></span>
-      <span style="display: none;"><br>
-        <b>Abstract:</b><br><br>
-      </span>
-    </li>
     <li>Nikolaj Kristensen, Benjamin Bennetzen, Daniel Kleist, Peter Steffensen, Emilie Steinmann and Loke Walsted<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>A Type System to Ensure Non-interference in ReScript</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
     </li>
-    <li>Fritz Henglein, Changjun Li and Mikkel Kragh Mathiesen<br>
-      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Simple Worst-Case Optimal Joins</i></span>
+    <li>Ksenija Kivojenko, Edwin Smagin, Ian Erik Varatalu and Juhan Ernits<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Towards text extraction learning with regular expressions extended with complement, intersection and lookarounds</i></span>
+      <span style="display: none;"><br>
+        <b>Abstract:</b><br><br>
+      </span>
+    </li>
+    <li>Nikolaj Kristensen, Benjamin Bennetzen, Loke Walsted, Peter Steffensen, Emilie Steinmann and Daniel Kleist<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Cost Analysis for Import and Export Using an Abstract Machine</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
@@ -153,8 +153,8 @@ Auditorium B
 * 15:00 Break (with coffee, tea, and cake)
 * 15:30 Session 6
   <ul>
-    <li>Nikolaj Kristensen, Benjamin Bennetzen, Loke Walsted, Peter Steffensen, Emilie Steinmann and Daniel Kleist<br>
-      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Cost Analysis for Import and Export Using an Abstract Machine</i></span>
+    <li>Fritz Henglein, Changjun Li and Mikkel Kragh Mathiesen<br>
+      <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Simple Worst-Case Optimal Joins</i></span>
       <span style="display: none;"><br>
         <b>Abstract:</b><br><br>
       </span>
