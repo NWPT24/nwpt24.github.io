@@ -67,7 +67,7 @@ Auditorium B
     <li>Behnam Khodabandeloo, Chengzi Huang, Morteza Mohaqeqi, Susanne Graf and Wang Yi<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Buffer Overflow and Deadlock Detection for Timed Kahn Process Networks</i></span>
       <span style="display: none;"><br>
-        <b>Résumé:</b> We propose modeling real-time systems as a network of real-time tasks connected by communication channels, which are either FIFO queues or registers. The model is a timed extension of Kahn Process Networks and has been shown to be both timing and functionally deterministic. It is designed for the efficient analysis of safety properties in real-time systems. In this work, we develop a method for efficiently checking the absence of buffer overflow and deadlock in such networks.<br><br>
+        <b>Résumé:</b> We show that worst-case optimal joins, also for cyclic joins, are easy to program using basic programming techniques. They only require straightforward dictionaries, iterating over the smallest set when intersecting multiple sets and nested iteration over the variables in a join query in any order. We sketch a proof of worst-case optimality by amortization, where the execution cost is allocated to the generated output, but of padded input. We point out that modern database systems (still) generate asymptotically inferior code on cyclic joins.<br><br>
       </span>
     </li>
   </ul>
