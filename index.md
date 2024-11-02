@@ -59,11 +59,9 @@ Conference dates: 6-8 November 2024
 
   * Michael Kirkedal Thomsen, University of Copenhagen and University of Oslo
   * Maja Hanne Kirkeby, Roskilde University
-  * Morten Rhiger, Roskilde University
   * Jens Classen, Roskilde University
   * Joachim Tilsted Kristensen, University of Oslo
   * Matilde Mouritsen Broløs, University of Copenhagen
-  * Fritz Henglein, University of Copenhagen and Deon Digital
 
 For questions, contact Michael Kirkedal Thomsen <m.kirkedal@di.ku.dk>.
 
