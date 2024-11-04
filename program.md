@@ -5,7 +5,13 @@ title: Program
 
 # Program
 
-The following is a draft program outline
+<p>
+<strong>Abstracts</strong> can be found here: <a href="nwpt24-extended-abstracts.pdf">nwpt24-extended-abstracts.pdf</a>
+</p>
+
+<p>
+The following is a draft program outline.
+</p>
 
 ## Wednesday November 6
 Auditorium B
