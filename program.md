@@ -78,7 +78,7 @@ Auditorium B
     </li>
   </ul>
 * 15:00 Break (with coffee, tea, and cake)
-* 15:30 Session 3
+* 15:30 Session 3; Chair: Elli Anastasiadi
   <ul>
     <li>Chad Nester and Niels Voorneveld<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>On the Operational Semantics of the Free Cornering with Protocol Choice</i></span>
@@ -161,7 +161,7 @@ Auditorium B
     </li>
   </ul>
 * 15:00 Break (with coffee, tea, and cake)
-* 15:30 Session 6
+* 15:30 Session 6; Chair: Juhan Ernits
   <ul>
     <li>Fritz Henglein, Changjun Li and Mikkel Kragh Mathiesen<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Simple Worst-Case Optimal Joins</i></span>
