@@ -189,7 +189,7 @@ Auditorium B
 Auditorium A
 
 * 10:00 Day opens (with coffee, tea, croissant, and wienerbrød)
-* 10:30 Session 7
+* 10:30 Session 7, Chair: Wojciech Mostowski
   <ul>
     <li>Christian Kalhauge<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Input Reduction Revisited</i></span>
