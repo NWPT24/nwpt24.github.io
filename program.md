@@ -115,7 +115,7 @@ Auditorium B
     <b>Biography:</b> Sam is a professor of Computer Science in Oxford. He has previously worked in Nijmegen, Paris and Cambridge. The talk will be based on work funded by the ERC grant "BLAST: Better Languages for Statistics" and the ARIA Project "Employing categorical probability towards safe AI".<br><br>
   </span>
 * 10:00 Break (with coffee and tea)
-* 10:30 Session 4
+* 10:30 Session 4; Chair: Chad Nester
   <ul>
     <li>Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti and Lars Birkedal<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Approximate Relational Reasoning for Higher-Order Probabilistic Programs</i></span>
@@ -137,7 +137,12 @@ Auditorium B
       </span>
     </li>
   </ul>
-* 12:00 Lunch
+* 12:00 <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Lunch (menu)</i></span>
+      <span style="display: none;"><br>
+        Brun love with roasted vegetables, roasted chickpeas.<br>
+        Served with pickled beetroot, roasted onions. and parsly.<br><br>
+      </span>
+
 * 13:30 Session 5; Chair: Christoph Reichenbach
   <ul>
     <li>Nikolaj Kristensen, Benjamin Bennetzen, Daniel Kleist, Peter Steffensen, Emilie Steinmann and Loke Walsted<br>
