@@ -32,7 +32,7 @@ Auditorium B
   João Saraiva is one of the founders of the successful series of summer schools on Generative and Transformational Techniques in Software Engineering (GTTSE), which he co-organized in 2005, 2007, 2009, 2011, and 2015 (volumes 4143, 5235, 6491, 7680 and 10223 of LNCS - Tutorial by Springer-Verlag) in Braga. He was the organizing chair of ETAPS'07, The European Joint Conferences on Theory and Practice of Software, organized in Braga in 2007, and the worksho co-chair of ICSE'24 held in Lisbon.<br><br>
   </span>
 * 10:00 Break (with coffee and tea)
-* 10:30 Session 1
+* 10:30 Session 1; Chair: Alberto Lluch Lafuente
   <ul>
     <li>Duc Anh Nguyen, Philipp Rümmer and Wang Yi<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;" ><i>Verification of Data-flow Networks Using the KeY Theorem Prover</i></span>
@@ -54,7 +54,7 @@ Auditorium B
     </li>
   </ul>
 * 12:00 Lunch
-* 13:30 Session 2
+* 13:30 Session 2; Chair: Troels Henriksen
   <ul>
     <li>Samuel Grahn and Elli Anastasiadi<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Modeling systems via register machines for the verification of weak memory models</i></span>
@@ -138,7 +138,7 @@ Auditorium B
     </li>
   </ul>
 * 12:00 Lunch
-* 13:30 Session 5
+* 13:30 Session 5; Chair: Christoph Reichenbach
   <ul>
     <li>Nikolaj Kristensen, Benjamin Bennetzen, Daniel Kleist, Peter Steffensen, Emilie Steinmann and Loke Walsted<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>A Type System to Ensure Non-interference in ReScript</i></span>
@@ -189,7 +189,7 @@ Auditorium B
 Auditorium A
 
 * 10:00 Day opens (with coffee, tea, croissant, and wienerbrød)
-* 10:30 Session 7, Chair: Wojciech Mostowski
+* 10:30 Session 7; Chair: Wojciech Mostowski
   <ul>
     <li>Christian Kalhauge<br>
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Input Reduction Revisited</i></span>
