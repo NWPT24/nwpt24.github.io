@@ -55,9 +55,9 @@ Auditorium B
   </ul>
 * 12:00 <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Lunch (menu)</i></span>
       <span style="display: none;"><br>
-        "Brænde kærlighed" with roasted bacon, carrots, cellery, and pork shoulder.<br>
+        "Brænde kærlighed" with roasted bacon, carrots, celery, and pork shoulder.<br>
         V: "Brændende kærlighed" with roasted vegetables, roasted chickpeas.<br>
-        Served with pickled beetroot, roasted onions. and parsly.<br>
+        Served with pickled beetroot, roasted onions. and parsley.<br>
         Wikipedia: <i>Brændende kærlighed (English: Burning love) is a traditional Danish dish consisting of mashed potatoes topped with bacon and onions, both fried. The mashed potatoes might also be topped with parsley, leek, or grated nutmeg.</i><br><br>
       </span>
 * 13:30 Session 2; Chair: Troels Henriksen
