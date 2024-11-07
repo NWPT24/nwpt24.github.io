@@ -145,7 +145,7 @@ Auditorium B
   </ul>
 * 12:00 <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Lunch (menu)</i></span>
       <span style="display: none;"><br>
-        Teriyaki casserole with marinated port shulder, baked carrots, and green beans.<br>
+        Teriyaki casserole with marinated pork shoulder, baked carrots, and green beans.<br>
         V: Teriyaki casserole with chickpeas, broccoli, baked carrots, green beans.<br>
         Served with bulgur topped with coriander, marinated red onions.<br><br>
       </span>
