@@ -69,7 +69,7 @@ The standard menu, will follow a classical Danish Christmas food:
 
 * Starter: Gravad laks m. rævedressing. (Kind of marinated salmon)
 * Main dish: Confiteret andelår m. brune kartofler & skysauce. (Confit duck leg with caramelised potato and sauce)
-Dessert: Ris a la mande (kind of Danish rice pudding) + coffee/tea
+* Dessert: Ris a la mande (kind of Danish rice pudding) + coffee/tea
 
 There will also be alternative dietary restricted options.
 
