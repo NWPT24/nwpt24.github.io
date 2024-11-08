@@ -218,7 +218,7 @@ Auditorium A
       <span href="#" onmouseover="this.style.cursor='pointer';" onclick="toggleNext(this);" style="text-decoration: underline;color: blue;"><i>Saving memory by consolidating fragmented lists</i></span>
       <span style="display: none;"><br>
         <b>Résumé:</b> Classic texts on algorithms and data structures, such as CLRS,focus on the imperative programming paradigm, which favours ephemeralstructures and destructive operations.--Other programming paradigms such as the functional paradigm, does not enjoysuch a rich literature, and it remains challenging to design space efficientpersistent data structures that perform as well as their ephemeralcounterparts.<br>
-        In this paper, we present a fragmented representation of lists that achievesconstant time and space complexity for append operations and linear time fortraversal in Haskell. This structure is particularly effective inapplications like sorting, where an efficient implementation of append isessential.--The technique used to develop the structure, generalises to monoidalcontexts in which the result of the computation is an appendable structure,which is only traversed once.<br><br>
+        In this paper, we present a fragmented representation of lists that achieves constant time and space complexity for append operations and linear time fortraversal in Haskell. This structure is particularly effective inapplications like sorting, where an efficient implementation of append isessential.--The technique used to develop the structure, generalises to monoidalcontexts in which the result of the computation is an appendable structure,which is only traversed once.<br><br>
       </span>
     </li>
   </ul>
@@ -226,7 +226,7 @@ Auditorium A
       <span style="display: none;"><br>
         Bbq chicken drumstick<br>
         V: Bbq celery<br>
-        Served with roasted potatots with garlic/Chili and topped with roasted cron with herbs<br><br>
+        Served with roasted potatots with garlic/Chili and topped with roasted corn with herbs<br><br>
       </span>
 * 13:30 Keynote, Chair: Michael Kirkedal Thomsen<br>
   <b>Martin Berger</b><br>
